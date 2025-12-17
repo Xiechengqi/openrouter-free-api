@@ -7,10 +7,10 @@ on:
   # 定时触发：每小时
   schedule:
     - cron: '0 * * * *'
-#   # 当推送到 main 分支时触发
-#   push:
-#     branches:
-#       - main
+  # 当推送到 main 分支时触发
+  push:
+    branches:
+      - main
 
 env:
   # 允许通过 star 触发此 workflow 的 GitHub 用户名列表（用空格分隔，请修改为实际的用户名）
