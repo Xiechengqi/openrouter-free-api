@@ -1,0 +1,7 @@
+# 忽略所有隐藏文件和目录
+.*
+# 但不忽略 .gitignore 文件
+!.github
+!.gitignore
+!.gitconfig
+__pycache__

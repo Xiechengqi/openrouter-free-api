@@ -1,0 +1,81 @@
+name: Deploy
+
+on:
+  # 当仓库被 star 或 unstar 时触发
+  watch:
+    types: [started]
+  # 定时触发：每小时
+  schedule:
+    - cron: '0 * * * *'
+#   # 当推送到 main 分支时触发
+#   push:
+#     branches:
+#       - main
+
+env:
+  # 允许通过 star 触发此 workflow 的 GitHub 用户名列表（用空格分隔，请修改为实际的用户名）
+  ALLOWED_USERS: "Xiechengqi"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10  # 设置超时时间为 10 分钟
+    permissions:
+      contents: write  # 允许写入仓库内容
+    
+    steps:
+      - name: Check user permission (star trigger)
+        if: github.event_name == 'watch'
+        run: |
+          ALLOWED_USERS="${{ env.ALLOWED_USERS }}"
+          SENDER="${{ github.event.sender.login }}"
+          
+          if [[ " $ALLOWED_USERS " != *" $SENDER "* ]]; then
+            echo "❌ 错误: 用户 $SENDER 不在允许列表中，workflow 已终止"
+            echo "允许的用户: $ALLOWED_USERS"
+            echo "当前触发用户: $SENDER"
+            exit 1
+          fi
+          echo "✅ 用户 $SENDER star 了仓库，继续执行..."
+      
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.TAO_GITHUB_TOKEN }}
+          fetch-depth: 0
+      
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+      
+      - name: Verify Docker is running
+        run: docker info
+      
+      - name: Make run.sh executable
+        run: chmod +x run.sh
+      
+      - name: Run deployment script
+        run: ./run.sh
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+      
+      - name: Check for changes
+        id: check-changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "📝 检测到文件变更"
+            git status
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "✅ 没有文件变更"
+          fi
+      
+      - name: Commit and push changes
+        if: steps.check-changes.outputs.has_changes == 'true'
+        run: |
+          git add .
+          git commit -m "chore: auto-commit changes from workflow [skip ci]"
+          git push
