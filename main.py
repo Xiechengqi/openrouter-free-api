@@ -4,6 +4,7 @@
 """
 import asyncio
 import json
+import os
 import re
 import sys
 from typing import List, Dict, Optional, Tuple, Any
@@ -13,7 +14,8 @@ from loguru import logger
 # 配置常量
 CDP_ENDPOINT = "http://localhost:9222"
 OPENROUTER_URL = "https://openrouter.ai/models?fmt=table&input_modalities=text&order=newest&output_modalities=text&q=%3Afree"
-OUTPUT_FILE = "openrouter-free-text-to-text.json"
+OUTPUT_DIR = "data"
+OUTPUT_FILE = os.path.join(OUTPUT_DIR, "openrouter-free-text-to-text.json")
 PAGE_LOAD_TIMEOUT = 60000
 PAGE_LOAD_WAIT_TIME = 5
 
@@ -275,6 +277,9 @@ async def main():
         
         # 保存到 JSON 文件
         try:
+            # 确保输出目录存在
+            os.makedirs(OUTPUT_DIR, exist_ok=True)
+            
             with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
                 json.dump(models, f, ensure_ascii=False, indent=2)
             logger.success(f"成功保存 {len(models)} 个模型信息到 {OUTPUT_FILE}")
