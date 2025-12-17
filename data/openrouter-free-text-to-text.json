@@ -25,11 +25,6 @@
     "context": "131072"
   },
   {
-    "model": "Amazon: Nova 2 Lite (free)",
-    "id": "amazon/nova-2-lite-v1:free",
-    "context": "1000000"
-  },
-  {
     "model": "Arcee AI: Trinity Mini (free)",
     "id": "arcee-ai/trinity-mini:free",
     "context": "131072"
