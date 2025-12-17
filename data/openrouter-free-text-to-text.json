@@ -1,0 +1,187 @@
+[
+  {
+    "model": "AllenAI: Olmo 3.1 32B Think (free)",
+    "id": "allenai/olmo-3.1-32b-think:free",
+    "context": "65536"
+  },
+  {
+    "model": "Xiaomi: MiMo-V2-Flash (free)",
+    "id": "xiaomi/mimo-v2-flash:free",
+    "context": "262144"
+  },
+  {
+    "model": "NVIDIA: Nemotron 3 Nano 30B A3B (free)",
+    "id": "nvidia/nemotron-3-nano-30b-a3b:free",
+    "context": "256000"
+  },
+  {
+    "model": "Mistral: Devstral 2 2512 (free)",
+    "id": "mistralai/devstral-2512:free",
+    "context": "262144"
+  },
+  {
+    "model": "Nex AGI: DeepSeek V3.1 Nex N1 (free)",
+    "id": "nex-agi/deepseek-v3.1-nex-n1:free",
+    "context": "131072"
+  },
+  {
+    "model": "Amazon: Nova 2 Lite (free)",
+    "id": "amazon/nova-2-lite-v1:free",
+    "context": "1000000"
+  },
+  {
+    "model": "Arcee AI: Trinity Mini (free)",
+    "id": "arcee-ai/trinity-mini:free",
+    "context": "131072"
+  },
+  {
+    "model": "TNG: R1T Chimera (free)",
+    "id": "tngtech/tng-r1t-chimera:free",
+    "context": "163840"
+  },
+  {
+    "model": "AllenAI: Olmo 3 32B Think (free)",
+    "id": "allenai/olmo-3-32b-think:free",
+    "context": "65536"
+  },
+  {
+    "model": "Kwaipilot: KAT-Coder-Pro V1 (free)",
+    "id": "kwaipilot/kat-coder-pro:free",
+    "context": "256000"
+  },
+  {
+    "model": "NVIDIA: Nemotron Nano 12B 2 VL (free)",
+    "id": "nvidia/nemotron-nano-12b-v2-vl:free",
+    "context": "128000"
+  },
+  {
+    "model": "Tongyi DeepResearch 30B A3B (free)",
+    "id": "alibaba/tongyi-deepresearch-30b-a3b:free",
+    "context": "131072"
+  },
+  {
+    "model": "NVIDIA: Nemotron Nano 9B V2 (free)",
+    "id": "nvidia/nemotron-nano-9b-v2:free",
+    "context": "128000"
+  },
+  {
+    "model": "OpenAI: gpt-oss-120b (free)",
+    "id": "openai/gpt-oss-120b:free",
+    "context": "131072"
+  },
+  {
+    "model": "OpenAI: gpt-oss-20b (free)",
+    "id": "openai/gpt-oss-20b:free",
+    "context": "131072"
+  },
+  {
+    "model": "Z.AI: GLM 4.5 Air (free)",
+    "id": "z-ai/glm-4.5-air:free",
+    "context": "131072"
+  },
+  {
+    "model": "Qwen: Qwen3 Coder 480B A35B (free)",
+    "id": "qwen/qwen3-coder:free",
+    "context": "262000"
+  },
+  {
+    "model": "MoonshotAI: Kimi K2 0711 (free)",
+    "id": "moonshotai/kimi-k2:free",
+    "context": "32768"
+  },
+  {
+    "model": "Venice: Uncensored (free)",
+    "id": "cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
+    "context": "32768"
+  },
+  {
+    "model": "Google: Gemma 3n 2B (free)",
+    "id": "google/gemma-3n-e2b-it:free",
+    "context": "8192"
+  },
+  {
+    "model": "TNG: DeepSeek R1T2 Chimera (free)",
+    "id": "tngtech/deepseek-r1t2-chimera:free",
+    "context": "163840"
+  },
+  {
+    "model": "DeepSeek: R1 0528 (free)",
+    "id": "deepseek/deepseek-r1-0528:free",
+    "context": "163840"
+  },
+  {
+    "model": "Google: Gemma 3n 4B (free)",
+    "id": "google/gemma-3n-e4b-it:free",
+    "context": "8192"
+  },
+  {
+    "model": "Qwen: Qwen3 4B (free)",
+    "id": "qwen/qwen3-4b:free",
+    "context": "40960"
+  },
+  {
+    "model": "Qwen: Qwen3 235B A22B (free)",
+    "id": "qwen/qwen3-235b-a22b:free",
+    "context": "131072"
+  },
+  {
+    "model": "TNG: DeepSeek R1T Chimera (free)",
+    "id": "tngtech/deepseek-r1t-chimera:free",
+    "context": "163840"
+  },
+  {
+    "model": "Mistral: Mistral Small 3.1 24B (free)",
+    "id": "mistralai/mistral-small-3.1-24b-instruct:free",
+    "context": "128000"
+  },
+  {
+    "model": "Google: Gemma 3 4B (free)",
+    "id": "google/gemma-3-4b-it:free",
+    "context": "32768"
+  },
+  {
+    "model": "Google: Gemma 3 12B (free)",
+    "id": "google/gemma-3-12b-it:free",
+    "context": "32768"
+  },
+  {
+    "model": "Google: Gemma 3 27B (free)",
+    "id": "google/gemma-3-27b-it:free",
+    "context": "131072"
+  },
+  {
+    "model": "Google: Gemini 2.0 Flash Experimental (free)",
+    "id": "google/gemini-2.0-flash-exp:free",
+    "context": "1048576"
+  },
+  {
+    "model": "Meta: Llama 3.3 70B Instruct (free)",
+    "id": "meta-llama/llama-3.3-70b-instruct:free",
+    "context": "131072"
+  },
+  {
+    "model": "Meta: Llama 3.2 3B Instruct (free)",
+    "id": "meta-llama/llama-3.2-3b-instruct:free",
+    "context": "131072"
+  },
+  {
+    "model": "Qwen: Qwen2.5-VL 7B Instruct (free)",
+    "id": "qwen/qwen-2.5-vl-7b-instruct:free",
+    "context": "32768"
+  },
+  {
+    "model": "Nous: Hermes 3 405B Instruct (free)",
+    "id": "nousresearch/hermes-3-llama-3.1-405b:free",
+    "context": "131072"
+  },
+  {
+    "model": "Meta: Llama 3.1 405B Instruct (free)",
+    "id": "meta-llama/llama-3.1-405b-instruct:free",
+    "context": "131072"
+  },
+  {
+    "model": "Mistral: Mistral 7B Instruct (free)",
+    "id": "mistralai/mistral-7b-instruct:free",
+    "context": "32768"
+  }
+]
