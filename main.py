@@ -14,8 +14,10 @@ from loguru import logger
 # 配置常量
 CDP_ENDPOINT = "http://localhost:9222"
 OPENROUTER_URL = "https://openrouter.ai/models?fmt=table&input_modalities=text&order=newest&output_modalities=text&q=%3Afree"
+OPENROUTER_API_URL = "https://openrouter.ai/api/v1/models?use_rss=true"
 OUTPUT_DIR = "data"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "openrouter-free-text-to-text.json")
+OUTPUT_MODELS_FILE = os.path.join(OUTPUT_DIR, "openrouter-models.json")
 PAGE_LOAD_TIMEOUT = 60000
 PAGE_LOAD_WAIT_TIME = 5
 
@@ -262,6 +264,59 @@ def validate_and_clean_models(models: List[Dict]) -> List[Dict[str, str]]:
     return validated_models
 
 
+async def fetch_openrouter_api_models() -> Dict[str, Any]:
+    """
+    从 OpenRouter API 获取模型列表并保存到文件
+    
+    返回:
+        API 返回的 JSON 数据
+    """
+    playwright = None
+    
+    try:
+        # 连接到浏览器
+        playwright, browser_context, page = await connect_to_browser()
+        if not playwright or not browser_context or not page:
+            logger.error("无法连接到浏览器，退出")
+            return {}
+        
+        logger.info(f"正在访问 API: {OPENROUTER_API_URL}")
+        try:
+            await page.goto(OPENROUTER_API_URL, wait_until="networkidle", timeout=PAGE_LOAD_TIMEOUT)
+            await asyncio.sleep(2)  # 等待页面完全加载
+        except Exception as e:
+            logger.error(f"访问 API 页面失败: {str(e)}")
+            raise
+        
+        # 获取页面内容（API 返回的 JSON）
+        content = await page.evaluate("() => document.body.innerText || document.body.textContent")
+        
+        if not content:
+            logger.error("未获取到 API 响应内容")
+            return {}
+        
+        # 解析 JSON
+        try:
+            api_data = json.loads(content)
+            logger.info(f"成功获取 API 数据")
+            return api_data
+        except json.JSONDecodeError as e:
+            logger.error(f"解析 API JSON 响应失败: {str(e)}")
+            return {}
+        
+    except Exception as e:
+        logger.error(f"获取 API 数据过程中出错: {str(e)}")
+        import traceback
+        logger.error(traceback.format_exc())
+        return {}
+    finally:
+        if playwright:
+            try:
+                await playwright.stop()
+            except Exception as e:
+                logger.warning(f"停止 playwright 时出错: {e}")
+
+
 async def main():
     """主函数"""
     try:
@@ -308,6 +363,27 @@ async def main():
                 context = model.get('context', '')
                 if context:
                     logger.info(f"   上下文 (tokens): {context}")
+        
+        # 获取 OpenRouter API 模型列表
+        logger.info("\n" + "=" * 60)
+        logger.info("开始获取 OpenRouter API 模型列表")
+        logger.info("=" * 60)
+        
+        api_models = await fetch_openrouter_api_models()
+        
+        if api_models:
+            try:
+                with open(OUTPUT_MODELS_FILE, "w", encoding="utf-8") as f:
+                    json.dump(api_models, f, ensure_ascii=False, indent=2)
+                
+                # 统计模型数量
+                data_list = api_models.get("data", [])
+                logger.success(f"成功保存 API 模型数据到 {OUTPUT_MODELS_FILE}")
+                logger.info(f"  API 返回模型数: {len(data_list)}")
+            except Exception as e:
+                logger.error(f"保存 API 模型文件失败: {str(e)}")
+        else:
+            logger.warning("未获取到 API 模型数据")
         
     except KeyboardInterrupt:
         logger.warning("\n用户中断程序")
