@@ -14,7 +14,7 @@ from loguru import logger
 # 配置常量
 CDP_ENDPOINT = "http://localhost:9222"
 OPENROUTER_URL = "https://openrouter.ai/models?fmt=table&input_modalities=text&order=newest&output_modalities=text&q=%3Afree"
-OPENROUTER_API_URL = "https://openrouter.ai/api/v1/models?use_rss=true"
+OPENROUTER_API_URL = "https://openrouter.ai/api/v1/models"
 OUTPUT_DIR = "data"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "openrouter-free-text-to-text.json")
 OUTPUT_MODELS_FILE = os.path.join(OUTPUT_DIR, "openrouter-models.json")
@@ -283,16 +283,30 @@ async def fetch_openrouter_api_models() -> Dict[str, Any]:
         logger.info(f"正在访问 API: {OPENROUTER_API_URL}")
         try:
             await page.goto(OPENROUTER_API_URL, wait_until="networkidle", timeout=PAGE_LOAD_TIMEOUT)
-            await asyncio.sleep(2)  # 等待页面完全加载
         except Exception as e:
             logger.error(f"访问 API 页面失败: {str(e)}")
             raise
         
-        # 获取页面内容（API 返回的 JSON）
-        content = await page.evaluate("() => document.body.innerText || document.body.textContent")
+        # 等待 pre 标签出现
+        try:
+            await page.wait_for_selector("pre", timeout=30000)
+            logger.info("找到 pre 标签")
+        except Exception as e:
+            logger.error(f"未找到 pre 标签: {str(e)}")
+            return {}
         
-        if not content:
+        # 获取 pre 标签内的 JSON 内容
+        content = await page.evaluate("() => { const pre = document.querySelector('pre'); return pre ? pre.innerText || pre.textContent : null; }")
+        
+        # 调试：打印获取到的内容长度和前100字符
+        if content:
+            logger.info(f"获取到内容长度: {len(content)}")
+            logger.debug(f"内容前100字符: {content[:100] if len(content) > 100 else content}")
+        else:
             logger.error("未获取到 API 响应内容")
+            # 打印页面内容以便调试
+            body_content = await page.evaluate("() => document.body.innerHTML.substring(0, 1000)")
+            logger.info(f"页面 HTML 内容: {body_content}")
             return {}
         
         # 解析 JSON
@@ -302,6 +316,7 @@ async def fetch_openrouter_api_models() -> Dict[str, Any]:
             return api_data
         except json.JSONDecodeError as e:
             logger.error(f"解析 API JSON 响应失败: {str(e)}")
+            logger.info(f"原始内容: {content[:500] if len(content) > 500 else content}")
             return {}
         
     except Exception as e:
