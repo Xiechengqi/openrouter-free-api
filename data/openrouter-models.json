@@ -6538,8 +6538,8 @@
       },
       "top_provider": {
         "context_length": 200000,
-        "max_completion_tokens": 32000,
-        "is_moderated": false
+        "max_completion_tokens": null,
+        "is_moderated": true
       },
       "per_request_limits": null,
       "supported_parameters": [
@@ -8770,7 +8770,7 @@
       "top_provider": {
         "context_length": 200000,
         "max_completion_tokens": 32000,
-        "is_moderated": false
+        "is_moderated": true
       },
       "per_request_limits": null,
       "supported_parameters": [
