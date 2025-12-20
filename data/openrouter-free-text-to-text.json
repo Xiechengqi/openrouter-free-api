@@ -115,11 +115,6 @@
     "context": "40960"
   },
   {
-    "model": "Qwen: Qwen3 235B A22B (free)",
-    "id": "qwen/qwen3-235b-a22b:free",
-    "context": "131072"
-  },
-  {
     "model": "TNG: DeepSeek R1T Chimera (free)",
     "id": "tngtech/deepseek-r1t-chimera:free",
     "context": "163840"
