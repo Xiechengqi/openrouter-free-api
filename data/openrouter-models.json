@@ -185,8 +185,8 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.0000004",
-        "completion": "0.0000015",
+        "prompt": "0.00000016",
+        "completion": "0.0000008",
         "request": "0",
         "image": "0",
         "web_search": "0",
@@ -194,7 +194,7 @@
       },
       "top_provider": {
         "context_length": 202752,
-        "max_completion_tokens": 65535,
+        "max_completion_tokens": null,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -1552,8 +1552,8 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.00000025",
-        "completion": "0.00000038",
+        "prompt": "0.000000112",
+        "completion": "0.00000016",
         "request": "0",
         "image": "0",
         "web_search": "0",
@@ -1561,7 +1561,7 @@
       },
       "top_provider": {
         "context_length": 163840,
-        "max_completion_tokens": 65536,
+        "max_completion_tokens": null,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -1646,62 +1646,6 @@
       ],
       "default_parameters": {
         "temperature": 0.6,
-        "top_p": null,
-        "frequency_penalty": null
-      }
-    },
-    {
-      "id": "tngtech/tng-r1t-chimera:free",
-      "canonical_slug": "tngtech/tng-r1t-chimera",
-      "hugging_face_id": null,
-      "name": "TNG: R1T Chimera (free)",
-      "created": 1764184161,
-      "description": "TNG-R1T-Chimera is an experimental LLM with a faible for creative storytelling and character interaction. It is a derivate of the original TNG/DeepSeek-R1T-Chimera released in April 2025 and is available exclusively via Chutes and OpenRouter.\n\nCharacteristics and improvements include:\n\nWe think that it has a creative and pleasant personality.\nIt has a preliminary EQ-Bench3 value of about 1305.\nIt is quite a bit more intelligent than the original, albeit a slightly slower.\nIt is much more think-token consistent, i.e. reasoning and answer blocks are properly delineated.\nTool calling is much improved.\n\nTNG Tech, the model authors, ask that users follow the careful guidelines that Microsoft has created for their \"MAI-DS-R1\" DeepSeek-based model. These guidelines are available on Hugging Face (https://huggingface.co/microsoft/MAI-DS-R1).",
-      "context_length": 163840,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Other",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0",
-        "completion": "0",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
-      },
-      "top_provider": {
-        "context_length": 163840,
-        "max_completion_tokens": 163840,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "frequency_penalty",
-        "include_reasoning",
-        "max_tokens",
-        "presence_penalty",
-        "reasoning",
-        "repetition_penalty",
-        "response_format",
-        "seed",
-        "stop",
-        "structured_outputs",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_k",
-        "top_p"
-      ],
-      "default_parameters": {
-        "temperature": null,
         "top_p": null,
         "frequency_penalty": null
       }
@@ -2484,8 +2428,8 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.0000004",
-        "completion": "0.00000175",
+        "prompt": "0.00000032",
+        "completion": "0.00000048",
         "request": "0",
         "image": "0",
         "web_search": "0",
@@ -2493,7 +2437,7 @@
       },
       "top_provider": {
         "context_length": 262144,
-        "max_completion_tokens": 65535,
+        "max_completion_tokens": null,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -4343,8 +4287,8 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.0000003",
-        "completion": "0.0000012",
+        "prompt": "0.00000045",
+        "completion": "0.0000035",
         "request": "0",
         "image": "0",
         "web_search": "0",
@@ -4400,8 +4344,8 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.0000012",
+        "prompt": "0.00000012",
+        "completion": "0.00000056",
         "request": "0",
         "image": "0",
         "web_search": "0",
@@ -4762,62 +4706,6 @@
       }
     },
     {
-      "id": "alibaba/tongyi-deepresearch-30b-a3b:free",
-      "canonical_slug": "alibaba/tongyi-deepresearch-30b-a3b",
-      "hugging_face_id": "Alibaba-NLP/Tongyi-DeepResearch-30B-A3B",
-      "name": "Tongyi DeepResearch 30B A3B (free)",
-      "created": 1758210804,
-      "description": "Tongyi DeepResearch is an agentic large language model developed by Tongyi Lab, with 30 billion total parameters activating only 3 billion per token. It's optimized for long-horizon, deep information-seeking tasks and delivers state-of-the-art performance on benchmarks like Humanity's Last Exam, BrowserComp, BrowserComp-ZH, WebWalkerQA, GAIA, xbench-DeepSearch, and FRAMES. This makes it superior for complex agentic search, reasoning, and multi-step problem-solving compared to prior models.\n\nThe model includes a fully automated synthetic data pipeline for scalable pre-training, fine-tuning, and reinforcement learning. It uses large-scale continual pre-training on diverse agentic data to boost reasoning and stay fresh. It also features end-to-end on-policy RL with a customized Group Relative Policy Optimization, including token-level gradients and negative sample filtering for stable training. The model supports ReAct for core ability checks and an IterResearch-based 'Heavy' mode for max performance through test-time scaling. It's ideal for advanced research agents, tool use, and heavy inference workflows.",
-      "context_length": 131072,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Other",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0",
-        "completion": "0",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
-      },
-      "top_provider": {
-        "context_length": 131072,
-        "max_completion_tokens": 131072,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "frequency_penalty",
-        "include_reasoning",
-        "max_tokens",
-        "presence_penalty",
-        "reasoning",
-        "repetition_penalty",
-        "response_format",
-        "seed",
-        "stop",
-        "structured_outputs",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_k",
-        "top_p"
-      ],
-      "default_parameters": {
-        "temperature": null,
-        "top_p": null,
-        "frequency_penalty": null
-      }
-    },
-    {
       "id": "alibaba/tongyi-deepresearch-30b-a3b",
       "canonical_slug": "alibaba/tongyi-deepresearch-30b-a3b",
       "hugging_face_id": "Alibaba-NLP/Tongyi-DeepResearch-30B-A3B",
@@ -5010,7 +4898,6 @@
         "frequency_penalty",
         "include_reasoning",
         "logit_bias",
-        "logprobs",
         "max_tokens",
         "min_p",
         "presence_penalty",
@@ -5024,7 +4911,6 @@
         "tool_choice",
         "tools",
         "top_k",
-        "top_logprobs",
         "top_p"
       ],
       "default_parameters": {
@@ -5760,8 +5646,8 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.0000003",
-        "completion": "0.0000012",
+        "prompt": "0.000001",
+        "completion": "0.000003",
         "request": "0",
         "image": "0",
         "web_search": "0",
@@ -5769,7 +5655,7 @@
       },
       "top_provider": {
         "context_length": 131072,
-        "max_completion_tokens": 131072,
+        "max_completion_tokens": null,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -5781,12 +5667,7 @@
         "reasoning",
         "repetition_penalty",
         "response_format",
-        "seed",
-        "stop",
-        "structured_outputs",
         "temperature",
-        "tool_choice",
-        "tools",
         "top_k",
         "top_p"
       ],
@@ -6639,26 +6520,19 @@
       },
       "top_provider": {
         "context_length": 131072,
-        "max_completion_tokens": 131072,
-        "is_moderated": false
+        "max_completion_tokens": null,
+        "is_moderated": true
       },
       "per_request_limits": null,
       "supported_parameters": [
-        "frequency_penalty",
         "include_reasoning",
         "max_tokens",
-        "presence_penalty",
         "reasoning",
-        "repetition_penalty",
-        "response_format",
         "seed",
         "stop",
-        "structured_outputs",
         "temperature",
         "tool_choice",
-        "tools",
-        "top_k",
-        "top_p"
+        "tools"
       ],
       "default_parameters": {
         "temperature": null,
@@ -7017,25 +6891,17 @@
       },
       "top_provider": {
         "context_length": 131072,
-        "max_completion_tokens": 131072,
+        "max_completion_tokens": 96000,
         "is_moderated": false
       },
       "per_request_limits": null,
       "supported_parameters": [
-        "frequency_penalty",
         "include_reasoning",
         "max_tokens",
-        "presence_penalty",
         "reasoning",
-        "repetition_penalty",
-        "response_format",
-        "seed",
-        "stop",
-        "structured_outputs",
         "temperature",
         "tool_choice",
         "tools",
-        "top_k",
         "top_p"
       ],
       "default_parameters": {
@@ -7064,17 +6930,16 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.00000013",
-        "completion": "0.00000085",
+        "prompt": "0.00000005",
+        "completion": "0.00000022",
         "request": "0",
         "image": "0",
         "web_search": "0",
-        "internal_reasoning": "0",
-        "input_cache_read": "0"
+        "internal_reasoning": "0"
       },
       "top_provider": {
         "context_length": 131072,
-        "max_completion_tokens": 98304,
+        "max_completion_tokens": 131072,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -7625,8 +7490,8 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.000000456",
-        "completion": "0.00000184",
+        "prompt": "0.0000005",
+        "completion": "0.0000024",
         "request": "0",
         "image": "0",
         "web_search": "0",
@@ -7634,7 +7499,7 @@
       },
       "top_provider": {
         "context_length": 131072,
-        "max_completion_tokens": 131072,
+        "max_completion_tokens": null,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -10653,56 +10518,6 @@
       "default_parameters": {}
     },
     {
-      "id": "arliai/qwq-32b-arliai-rpr-v1",
-      "canonical_slug": "arliai/qwq-32b-arliai-rpr-v1",
-      "hugging_face_id": "ArliAI/QwQ-32B-ArliAI-RpR-v1",
-      "name": "ArliAI: QwQ 32B RpR v1",
-      "created": 1744555982,
-      "description": "QwQ-32B-ArliAI-RpR-v1 is a 32B parameter model fine-tuned from Qwen/QwQ-32B using a curated creative writing and roleplay dataset originally developed for the RPMax series. It is designed to maintain coherence and reasoning across long multi-turn conversations by introducing explicit reasoning steps per dialogue turn, generated and refined using the base model itself.\n\nThe model was trained using RS-QLORA+ on 8K sequence lengths and supports up to 128K context windows (with practical performance around 32K). It is optimized for creative roleplay and dialogue generation, with an emphasis on minimizing cross-context repetition while preserving stylistic diversity.",
-      "context_length": 32768,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Other",
-        "instruct_type": "deepseek-r1"
-      },
-      "pricing": {
-        "prompt": "0.00000003",
-        "completion": "0.00000011",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
-      },
-      "top_provider": {
-        "context_length": 32768,
-        "max_completion_tokens": 32768,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "frequency_penalty",
-        "include_reasoning",
-        "max_tokens",
-        "presence_penalty",
-        "reasoning",
-        "repetition_penalty",
-        "response_format",
-        "seed",
-        "stop",
-        "structured_outputs",
-        "temperature",
-        "top_k",
-        "top_p"
-      ],
-      "default_parameters": {}
-    },
-    {
       "id": "x-ai/grok-3-mini-beta",
       "canonical_slug": "x-ai/grok-3-mini-beta",
       "hugging_face_id": "",
@@ -11029,17 +10844,16 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.00000088",
+        "prompt": "0.00000019",
+        "completion": "0.00000087",
         "request": "0",
         "image": "0",
         "web_search": "0",
-        "internal_reasoning": "0",
-        "input_cache_read": "0.000000106"
+        "internal_reasoning": "0"
       },
       "top_provider": {
         "context_length": 163840,
-        "max_completion_tokens": null,
+        "max_completion_tokens": 65536,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -12603,8 +12417,8 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.00000007",
-        "completion": "0.00000026",
+        "prompt": "0.00000015",
+        "completion": "0.0000006",
         "request": "0",
         "image": "0",
         "web_search": "0",
@@ -13092,8 +12906,8 @@
         "instruct_type": "deepseek-r1"
       },
       "pricing": {
-        "prompt": "0.0000003",
-        "completion": "0.0000012",
+        "prompt": "0.0000007",
+        "completion": "0.0000024",
         "request": "0",
         "image": "0",
         "web_search": "0",
@@ -13101,7 +12915,7 @@
       },
       "top_provider": {
         "context_length": 163840,
-        "max_completion_tokens": null,
+        "max_completion_tokens": 163840,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -13116,7 +12930,6 @@
         "response_format",
         "seed",
         "stop",
-        "structured_outputs",
         "temperature",
         "tool_choice",
         "tools",
