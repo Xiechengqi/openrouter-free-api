@@ -30,11 +30,6 @@
     "context": "131072"
   },
   {
-    "model": "TNG: R1T Chimera (free)",
-    "id": "tngtech/tng-r1t-chimera:free",
-    "context": "163840"
-  },
-  {
     "model": "AllenAI: Olmo 3 32B Think (free)",
     "id": "allenai/olmo-3-32b-think:free",
     "context": "65536"
@@ -48,11 +43,6 @@
     "model": "NVIDIA: Nemotron Nano 12B 2 VL (free)",
     "id": "nvidia/nemotron-nano-12b-v2-vl:free",
     "context": "128000"
-  },
-  {
-    "model": "Tongyi DeepResearch 30B A3B (free)",
-    "id": "alibaba/tongyi-deepresearch-30b-a3b:free",
-    "context": "131072"
   },
   {
     "model": "NVIDIA: Nemotron Nano 9B V2 (free)",
