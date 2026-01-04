@@ -10457,10 +10457,8 @@
         "response_format",
         "seed",
         "structured_outputs",
-        "temperature",
         "tool_choice",
-        "tools",
-        "top_p"
+        "tools"
       ],
       "default_parameters": {}
     },
@@ -10505,10 +10503,8 @@
         "response_format",
         "seed",
         "structured_outputs",
-        "temperature",
         "tool_choice",
-        "tools",
-        "top_p"
+        "tools"
       ],
       "default_parameters": {}
     },
@@ -10553,10 +10549,8 @@
         "response_format",
         "seed",
         "structured_outputs",
-        "temperature",
         "tool_choice",
-        "tools",
-        "top_p"
+        "tools"
       ],
       "default_parameters": {}
     },
