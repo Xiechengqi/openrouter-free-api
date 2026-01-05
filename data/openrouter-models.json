@@ -1693,7 +1693,6 @@
         "response_format",
         "seed",
         "stop",
-        "structured_outputs",
         "temperature",
         "tool_choice",
         "tools",
@@ -2383,7 +2382,7 @@
       },
       "top_provider": {
         "context_length": 256000,
-        "max_completion_tokens": 32768,
+        "max_completion_tokens": 128000,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -2445,11 +2444,16 @@
       "supported_parameters": [
         "frequency_penalty",
         "max_tokens",
+        "presence_penalty",
+        "repetition_penalty",
         "response_format",
+        "seed",
+        "stop",
         "structured_outputs",
         "temperature",
         "tool_choice",
         "tools",
+        "top_k",
         "top_p"
       ],
       "default_parameters": {
@@ -7153,7 +7157,6 @@
         "frequency_penalty",
         "max_tokens",
         "presence_penalty",
-        "repetition_penalty",
         "seed",
         "stop",
         "temperature",
