@@ -1552,8 +1552,8 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.000000112",
-        "completion": "0.00000016",
+        "prompt": "0.00000025",
+        "completion": "0.00000038",
         "request": "0",
         "image": "0",
         "web_search": "0",
@@ -1561,7 +1561,7 @@
       },
       "top_provider": {
         "context_length": 163840,
-        "max_completion_tokens": null,
+        "max_completion_tokens": 65536,
         "is_moderated": false
       },
       "per_request_limits": null,
