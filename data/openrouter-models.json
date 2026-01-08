@@ -3085,8 +3085,8 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.00000005",
-        "completion": "0.0000001",
+        "prompt": "0.00000001",
+        "completion": "0.00000002",
         "request": "0",
         "image": "0",
         "web_search": "0",
@@ -3132,8 +3132,8 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.00000005",
-        "completion": "0.0000001",
+        "prompt": "0.00000001",
+        "completion": "0.00000002",
         "request": "0",
         "image": "0",
         "web_search": "0",
