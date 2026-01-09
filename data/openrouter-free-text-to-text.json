@@ -15,11 +15,6 @@
     "context": "262144"
   },
   {
-    "model": "Nex AGI: DeepSeek V3.1 Nex N1 (free)",
-    "id": "nex-agi/deepseek-v3.1-nex-n1:free",
-    "context": "131072"
-  },
-  {
     "model": "Arcee AI: Trinity Mini (free)",
     "id": "arcee-ai/trinity-mini:free",
     "context": "131072"
