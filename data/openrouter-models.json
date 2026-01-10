@@ -11358,7 +11358,7 @@
         "max_tokens",
         "response_format",
         "seed",
-        "structured_outputs",
+        "stop",
         "temperature",
         "top_p"
       ],
@@ -11450,6 +11450,7 @@
       "supported_parameters": [
         "max_tokens",
         "seed",
+        "stop",
         "temperature",
         "top_p"
       ],
@@ -11677,7 +11678,6 @@
         "response_format",
         "seed",
         "stop",
-        "structured_outputs",
         "temperature",
         "tool_choice",
         "tools",

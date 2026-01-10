@@ -1,5 +1,10 @@
 [
   {
+    "model": "AllenAI: Molmo2 8B (free)",
+    "id": "allenai/molmo-2-8b:free",
+    "context": "36864"
+  },
+  {
     "model": "Xiaomi: MiMo-V2-Flash (free)",
     "id": "xiaomi/mimo-v2-flash:free",
     "context": "262144"
