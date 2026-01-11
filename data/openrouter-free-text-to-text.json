@@ -30,6 +30,11 @@
     "context": "163840"
   },
   {
+    "model": "Kwaipilot: KAT-Coder-Pro V1 (free)",
+    "id": "kwaipilot/kat-coder-pro:free",
+    "context": "256000"
+  },
+  {
     "model": "NVIDIA: Nemotron Nano 12B 2 VL (free)",
     "id": "nvidia/nemotron-nano-12b-v2-vl:free",
     "context": "128000"
