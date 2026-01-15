@@ -153,10 +153,5 @@
     "model": "Meta: Llama 3.1 405B Instruct (free)",
     "id": "meta-llama/llama-3.1-405b-instruct:free",
     "context": "131072"
-  },
-  {
-    "model": "Mistral: Mistral 7B Instruct (free)",
-    "id": "mistralai/mistral-7b-instruct:free",
-    "context": "32768"
   }
 ]
