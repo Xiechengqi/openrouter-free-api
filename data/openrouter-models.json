@@ -5813,6 +5813,55 @@
       "default_parameters": {}
     },
     {
+      "id": "google/gemini-2.5-flash-image-preview",
+      "canonical_slug": "google/gemini-2.5-flash-image-preview",
+      "hugging_face_id": "",
+      "name": "Google: Gemini 2.5 Flash Image Preview (Nano Banana)",
+      "created": 1756218977,
+      "description": "Gemini 2.5 Flash Image Preview, a.k.a. \"Nano Banana,\" is a state of the art image generation model with contextual understanding. It is capable of image generation, edits, and multi-turn conversations.",
+      "context_length": 32768,
+      "architecture": {
+        "modality": "text+image->text+image",
+        "input_modalities": [
+          "image",
+          "text"
+        ],
+        "output_modalities": [
+          "image",
+          "text"
+        ],
+        "tokenizer": "Gemini",
+        "instruct_type": null
+      },
+      "pricing": {
+        "prompt": "0.0000003",
+        "completion": "0.0000025",
+        "request": "0",
+        "image": "0.001238",
+        "web_search": "0",
+        "internal_reasoning": "0"
+      },
+      "top_provider": {
+        "context_length": 32768,
+        "max_completion_tokens": 32768,
+        "is_moderated": false
+      },
+      "per_request_limits": null,
+      "supported_parameters": [
+        "max_tokens",
+        "response_format",
+        "seed",
+        "structured_outputs",
+        "temperature",
+        "top_p"
+      ],
+      "default_parameters": {
+        "temperature": null,
+        "top_p": null,
+        "frequency_penalty": null
+      }
+    },
+    {
       "id": "deepseek/deepseek-chat-v3.1",
       "canonical_slug": "deepseek/deepseek-chat-v3.1",
       "hugging_face_id": "deepseek-ai/DeepSeek-V3.1",
