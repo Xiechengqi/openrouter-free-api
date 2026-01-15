@@ -35,6 +35,11 @@
     "context": "128000"
   },
   {
+    "model": "Qwen: Qwen3 Next 80B A3B Instruct (free)",
+    "id": "qwen/qwen3-next-80b-a3b-instruct:free",
+    "context": "262144"
+  },
+  {
     "model": "NVIDIA: Nemotron Nano 9B V2 (free)",
     "id": "nvidia/nemotron-nano-9b-v2:free",
     "context": "128000"
