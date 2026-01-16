@@ -52,7 +52,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "allenai/molmo-2-8b:free",
@@ -106,7 +107,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "allenai/olmo-3.1-32b-instruct",
@@ -161,7 +163,8 @@
         "temperature": 0.6,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "bytedance-seed/seed-1.6-flash",
@@ -214,7 +217,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "bytedance-seed/seed-1.6",
@@ -267,7 +271,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "minimax/minimax-m2.1",
@@ -327,7 +332,8 @@
         "temperature": 1,
         "top_p": 0.9,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "z-ai/glm-4.7",
@@ -388,7 +394,8 @@
         "temperature": 1,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "google/gemini-3-flash-preview",
@@ -446,7 +453,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-small-creative",
@@ -485,7 +493,8 @@
         "temperature": 0.3,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "allenai/olmo-3.1-32b-think",
@@ -540,7 +549,8 @@
         "temperature": 0.6,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "xiaomi/mimo-v2-flash:free",
@@ -592,7 +602,8 @@
         "temperature": null,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "xiaomi/mimo-v2-flash",
@@ -649,7 +660,8 @@
         "temperature": null,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "nvidia/nemotron-3-nano-30b-a3b:free",
@@ -698,7 +710,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "nvidia/nemotron-3-nano-30b-a3b",
@@ -755,7 +768,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-5.2-chat",
@@ -802,7 +816,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-5.2-pro",
@@ -850,7 +865,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-5.2",
@@ -899,7 +915,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/devstral-2512:free",
@@ -947,7 +964,8 @@
         "temperature": 0.3,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/devstral-2512",
@@ -1001,7 +1019,8 @@
         "temperature": 0.3,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "relace/relace-search",
@@ -1050,7 +1069,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "z-ai/glm-4.6v",
@@ -1111,7 +1131,8 @@
         "temperature": 0.8,
         "top_p": 0.6,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "nex-agi/deepseek-v3.1-nex-n1",
@@ -1162,7 +1183,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "essentialai/rnj-1-instruct",
@@ -1215,7 +1237,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openrouter/bodybuilder",
@@ -1251,7 +1274,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-5.1-codex-max",
@@ -1298,7 +1322,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "amazon/nova-2-lite-v1",
@@ -1351,7 +1376,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/ministral-14b-2512",
@@ -1404,7 +1430,8 @@
         "temperature": 0.3,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/ministral-8b-2512",
@@ -1453,7 +1480,8 @@
         "temperature": 0.3,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/ministral-3b-2512",
@@ -1502,7 +1530,8 @@
         "temperature": 0.3,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-large-2512",
@@ -1551,7 +1580,8 @@
         "temperature": 0.0645,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "arcee-ai/trinity-mini:free",
@@ -1602,7 +1632,8 @@
         "temperature": 0.15,
         "top_p": 0.75,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "arcee-ai/trinity-mini",
@@ -1660,7 +1691,8 @@
         "temperature": 0.15,
         "top_p": 0.75,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "deepseek/deepseek-v3.2-speciale",
@@ -1715,7 +1747,8 @@
         "temperature": 1,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "deepseek/deepseek-v3.2",
@@ -1775,7 +1808,8 @@
         "temperature": 1,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "prime-intellect/intellect-3",
@@ -1832,7 +1866,8 @@
         "temperature": 0.6,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "tngtech/tng-r1t-chimera:free",
@@ -1888,7 +1923,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "tngtech/tng-r1t-chimera",
@@ -1944,7 +1980,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "anthropic/claude-opus-4.5",
@@ -2000,7 +2037,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "allenai/olmo-3-32b-think",
@@ -2055,7 +2093,8 @@
         "temperature": 0.6,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "allenai/olmo-3-7b-instruct",
@@ -2108,7 +2147,8 @@
         "temperature": 0.6,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "allenai/olmo-3-7b-think",
@@ -2163,7 +2203,8 @@
         "temperature": 0.6,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "google/gemini-3-pro-image-preview",
@@ -2215,7 +2256,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "x-ai/grok-4.1-fast",
@@ -2270,7 +2312,8 @@
         "temperature": 0.7,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "google/gemini-3-pro-preview",
@@ -2328,7 +2371,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "deepcogito/cogito-v2.1-671b",
@@ -2383,7 +2427,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-5.1",
@@ -2432,7 +2477,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-5.1-chat",
@@ -2479,7 +2525,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-5.1-codex",
@@ -2526,7 +2573,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-5.1-codex-mini",
@@ -2573,7 +2621,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "kwaipilot/kat-coder-pro",
@@ -2628,7 +2677,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "moonshotai/kimi-k2-thinking",
@@ -2688,7 +2738,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "amazon/nova-premier-v1",
@@ -2737,7 +2788,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "perplexity/sonar-pro-search",
@@ -2789,7 +2841,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/voxtral-small-24b-2507",
@@ -2839,7 +2892,8 @@
         "temperature": 0.2,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-oss-safeguard-20b",
@@ -2891,7 +2945,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "nvidia/nemotron-nano-12b-v2-vl:free",
@@ -2942,7 +2997,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "nvidia/nemotron-nano-12b-v2-vl",
@@ -2998,7 +3054,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "minimax/minimax-m2",
@@ -3056,7 +3113,8 @@
         "temperature": 1,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-vl-32b-instruct",
@@ -3110,7 +3168,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "liquid/lfm2-8b-a1b",
@@ -3157,7 +3216,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "liquid/lfm-2.2-6b",
@@ -3208,7 +3268,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "ibm-granite/granite-4.0-h-micro",
@@ -3257,7 +3318,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "deepcogito/cogito-v2-preview-llama-405b",
@@ -3314,7 +3376,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-5-image-mini",
@@ -3372,7 +3435,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "anthropic/claude-haiku-4.5",
@@ -3425,7 +3489,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-vl-8b-instruct",
@@ -3483,7 +3548,8 @@
         "temperature": 0.7,
         "top_p": 0.8,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-5-image",
@@ -3541,7 +3607,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/o3-deep-research",
@@ -3598,7 +3665,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/o4-mini-deep-research",
@@ -3655,7 +3723,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
@@ -3707,7 +3776,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": null
+      "default_parameters": null,
+      "expiration_date": null
     },
     {
       "id": "baidu/ernie-4.5-21b-a3b-thinking",
@@ -3759,7 +3829,8 @@
         "temperature": 0.6,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "google/gemini-2.5-flash-image",
@@ -3808,7 +3879,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-vl-30b-a3b-thinking",
@@ -3865,7 +3937,8 @@
       "default_parameters": {
         "temperature": 0.8,
         "top_p": 0.95
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-vl-30b-a3b-instruct",
@@ -3924,7 +3997,8 @@
         "temperature": 0.7,
         "top_p": 0.8,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-5-pro",
@@ -3972,7 +4046,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "z-ai/glm-4.6",
@@ -4033,7 +4108,8 @@
         "temperature": 0.6,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "z-ai/glm-4.6:exacto",
@@ -4089,7 +4165,8 @@
         "temperature": 0.6,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "anthropic/claude-sonnet-4.5",
@@ -4145,7 +4222,8 @@
         "temperature": 1,
         "top_p": 1,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "deepseek/deepseek-v3.2-exp",
@@ -4201,7 +4279,8 @@
         "temperature": 0.6,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "thedrummer/cydonia-24b-v4.1",
@@ -4254,7 +4333,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "relace/relace-apply-3",
@@ -4298,7 +4378,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "google/gemini-2.5-flash-preview-09-2025",
@@ -4357,7 +4438,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": "2026-02-17"
     },
     {
       "id": "google/gemini-2.5-flash-lite-preview-09-2025",
@@ -4415,7 +4497,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-vl-235b-a22b-thinking",
@@ -4472,7 +4555,8 @@
         "temperature": 0.8,
         "top_p": 0.95,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-vl-235b-a22b-instruct",
@@ -4531,7 +4615,8 @@
         "temperature": 0.7,
         "top_p": 0.8,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-5-codex",
@@ -4578,7 +4663,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "deepseek/deepseek-v3.1-terminus:exacto",
@@ -4636,7 +4722,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "deepseek/deepseek-v3.1-terminus",
@@ -4694,7 +4781,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "x-ai/grok-4-fast",
@@ -4749,7 +4837,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "alibaba/tongyi-deepresearch-30b-a3b",
@@ -4806,7 +4895,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "opengvlab/internvl3-78b",
@@ -4855,7 +4945,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-next-80b-a3b-thinking",
@@ -4913,7 +5004,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-next-80b-a3b-instruct:free",
@@ -4961,7 +5053,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-next-80b-a3b-instruct",
@@ -5013,7 +5106,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "meituan/longcat-flash-chat",
@@ -5053,7 +5147,8 @@
         "temperature",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "nvidia/nemotron-nano-9b-v2:free",
@@ -5100,7 +5195,8 @@
         "tools",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "nvidia/nemotron-nano-9b-v2",
@@ -5153,7 +5249,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "moonshotai/kimi-k2-0905",
@@ -5207,7 +5304,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "moonshotai/kimi-k2-0905:exacto",
@@ -5255,7 +5353,8 @@
         "tools",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "deepcogito/cogito-v2-preview-llama-70b",
@@ -5312,7 +5411,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "deepcogito/cogito-v2-preview-llama-109b-moe",
@@ -5364,7 +5464,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "stepfun-ai/step3",
@@ -5412,7 +5513,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-30b-a3b-thinking-2507",
@@ -5463,7 +5565,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "x-ai/grok-code-fast-1",
@@ -5514,7 +5617,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "nousresearch/hermes-4-70b",
@@ -5566,7 +5670,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "nousresearch/hermes-4-405b",
@@ -5613,7 +5718,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "deepseek/deepseek-chat-v3.1",
@@ -5669,7 +5775,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-4o-audio-preview",
@@ -5718,7 +5825,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-medium-3.1",
@@ -5765,7 +5873,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "baidu/ernie-4.5-21b-a3b",
@@ -5817,7 +5926,8 @@
         "temperature": 0.8,
         "top_p": 0.8,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "baidu/ernie-4.5-vl-28b-a3b",
@@ -5868,7 +5978,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "z-ai/glm-4.5v",
@@ -5927,7 +6038,8 @@
         "temperature": 0.75,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "ai21/jamba-mini-1.7",
@@ -5971,7 +6083,8 @@
         "tools",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "ai21/jamba-large-1.7",
@@ -6015,7 +6128,8 @@
         "tools",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-5-chat",
@@ -6056,7 +6170,8 @@
         "seed",
         "structured_outputs"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-5",
@@ -6105,7 +6220,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-5-mini",
@@ -6150,7 +6266,8 @@
         "tool_choice",
         "tools"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-5-nano",
@@ -6195,7 +6312,8 @@
         "tool_choice",
         "tools"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-oss-120b:free",
@@ -6244,7 +6362,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-oss-120b",
@@ -6305,7 +6424,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-oss-120b:exacto",
@@ -6362,7 +6482,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-oss-20b:free",
@@ -6411,7 +6532,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-oss-20b",
@@ -6470,7 +6592,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "anthropic/claude-opus-4.1",
@@ -6526,7 +6649,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/codestral-2508",
@@ -6572,7 +6696,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-coder-30b-a3b-instruct",
@@ -6622,7 +6747,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-30b-a3b-instruct-2507",
@@ -6672,7 +6798,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "z-ai/glm-4.5",
@@ -6728,7 +6855,8 @@
         "temperature": 0.75,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "z-ai/glm-4.5-air:free",
@@ -6776,7 +6904,8 @@
         "temperature": 0.75,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "z-ai/glm-4.5-air",
@@ -6832,7 +6961,8 @@
         "temperature": 0.75,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-235b-a22b-thinking-2507",
@@ -6890,7 +7020,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "z-ai/glm-4-32b",
@@ -6936,7 +7067,8 @@
         "temperature": 0.75,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-coder:free",
@@ -6983,7 +7115,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-coder",
@@ -7038,7 +7171,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-coder:exacto",
@@ -7089,7 +7223,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "bytedance/ui-tars-1.5-7b",
@@ -7137,7 +7272,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "google/gemini-2.5-flash-lite",
@@ -7195,7 +7331,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-235b-a22b-2507",
@@ -7252,7 +7389,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "switchpoint/router",
@@ -7297,7 +7435,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "moonshotai/kimi-k2:free",
@@ -7338,7 +7477,8 @@
         "stop",
         "temperature"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "moonshotai/kimi-k2",
@@ -7391,7 +7531,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "mistralai/devstral-medium",
@@ -7437,7 +7578,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/devstral-small",
@@ -7483,7 +7625,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
@@ -7529,7 +7672,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "x-ai/grok-4",
@@ -7580,7 +7724,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "google/gemma-3n-e2b-it:free",
@@ -7625,7 +7770,8 @@
         "temperature",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "tencent/hunyuan-a13b-instruct",
@@ -7670,7 +7816,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "tngtech/deepseek-r1t2-chimera:free",
@@ -7718,7 +7865,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "tngtech/deepseek-r1t2-chimera",
@@ -7770,7 +7918,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "morph/morph-v3-large",
@@ -7814,7 +7963,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "morph/morph-v3-fast",
@@ -7858,7 +8008,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "baidu/ernie-4.5-vl-424b-a47b",
@@ -7907,7 +8058,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "baidu/ernie-4.5-300b-a47b",
@@ -7955,7 +8107,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "inception/mercury",
@@ -8007,7 +8160,8 @@
         "temperature": 0,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-small-3.2-24b-instruct",
@@ -8062,7 +8216,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "minimax/minimax-m1",
@@ -8112,7 +8267,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "google/gemini-2.5-flash",
@@ -8171,7 +8327,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "google/gemini-2.5-pro",
@@ -8229,7 +8386,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "moonshotai/kimi-dev-72b",
@@ -8274,7 +8432,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/o3-pro",
@@ -8322,7 +8481,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "x-ai/grok-3-mini",
@@ -8377,7 +8537,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "x-ai/grok-3",
@@ -8428,7 +8589,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "google/gemini-2.5-pro-preview",
@@ -8481,7 +8643,8 @@
         "tools",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "deepseek/deepseek-r1-0528:free",
@@ -8529,7 +8692,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "deepseek/deepseek-r1-0528",
@@ -8591,7 +8755,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "anthropic/claude-opus-4",
@@ -8645,7 +8810,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "anthropic/claude-sonnet-4",
@@ -8699,7 +8865,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "google/gemma-3n-e4b-it:free",
@@ -8744,7 +8911,8 @@
         "temperature",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "google/gemma-3n-e4b-it",
@@ -8791,50 +8959,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
-    },
-    {
-      "id": "openai/codex-mini",
-      "canonical_slug": "openai/codex-mini",
-      "hugging_face_id": "",
-      "name": "OpenAI: Codex Mini",
-      "created": 1747409761,
-      "description": "codex-mini-latest is a fine-tuned version of o4-mini specifically for use in Codex CLI. For direct use in the API, we recommend starting with gpt-4.1.",
-      "context_length": 200000,
-      "architecture": {
-        "modality": "text+image->text",
-        "input_modalities": [
-          "image",
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "GPT",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0.0000015",
-        "completion": "0.000006",
-        "input_cache_read": "0.000000375"
-      },
-      "top_provider": {
-        "context_length": 200000,
-        "max_completion_tokens": 100000,
-        "is_moderated": true
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "include_reasoning",
-        "max_tokens",
-        "reasoning",
-        "response_format",
-        "seed",
-        "structured_outputs",
-        "tool_choice",
-        "tools"
-      ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "nousresearch/deephermes-3-mistral-24b-preview",
@@ -8886,7 +9012,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-medium-3",
@@ -8933,7 +9060,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "google/gemini-2.5-pro-preview-05-06",
@@ -8991,7 +9119,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "arcee-ai/spotlight",
@@ -9039,7 +9168,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "arcee-ai/maestro-reasoning",
@@ -9086,7 +9216,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "arcee-ai/virtuoso-large",
@@ -9135,7 +9266,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "arcee-ai/coder-large",
@@ -9182,7 +9314,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "inception/mercury-coder",
@@ -9234,7 +9367,8 @@
         "temperature": 0,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-4b:free",
@@ -9284,7 +9418,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "meta-llama/llama-guard-4-12b",
@@ -9334,7 +9469,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-30b-a3b",
@@ -9394,7 +9530,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-8b",
@@ -9453,7 +9590,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-14b",
@@ -9506,7 +9644,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-32b",
@@ -9561,7 +9700,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen3-235b-a22b",
@@ -9583,8 +9723,8 @@
         "instruct_type": "qwen3"
       },
       "pricing": {
-        "prompt": "0.00000018",
-        "completion": "0.00000054",
+        "prompt": "0.0000002",
+        "completion": "0.0000006",
         "request": "0",
         "image": "0",
         "web_search": "0",
@@ -9592,7 +9732,7 @@
       },
       "top_provider": {
         "context_length": 40960,
-        "max_completion_tokens": 40960,
+        "max_completion_tokens": null,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -9617,7 +9757,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "tngtech/deepseek-r1t-chimera:free",
@@ -9665,7 +9806,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "tngtech/deepseek-r1t-chimera",
@@ -9715,7 +9857,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/o4-mini-high",
@@ -9764,7 +9907,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/o3",
@@ -9809,7 +9953,8 @@
         "tool_choice",
         "tools"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/o4-mini",
@@ -9854,7 +9999,8 @@
         "tool_choice",
         "tools"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen2.5-coder-7b-instruct",
@@ -9900,7 +10046,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-4.1",
@@ -9945,7 +10092,8 @@
         "tools",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-4.1-mini",
@@ -9990,7 +10138,8 @@
         "tools",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-4.1-nano",
@@ -10035,7 +10184,8 @@
         "tools",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "eleutherai/llemma_7b",
@@ -10082,7 +10232,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "alfredpros/codellama-7b-instruct-solidity",
@@ -10129,7 +10280,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "x-ai/grok-3-mini-beta",
@@ -10183,7 +10335,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "x-ai/grok-3-beta",
@@ -10233,7 +10386,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "nvidia/llama-3.1-nemotron-ultra-253b-v1",
@@ -10281,7 +10435,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "meta-llama/llama-4-maverick",
@@ -10336,7 +10491,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "meta-llama/llama-4-scout",
@@ -10389,7 +10545,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen2.5-vl-32b-instruct",
@@ -10442,7 +10599,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "deepseek/deepseek-chat-v3-0324",
@@ -10497,7 +10655,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/o1-pro",
@@ -10538,7 +10697,8 @@
         "seed",
         "structured_outputs"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-small-3.1-24b-instruct:free",
@@ -10589,7 +10749,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-small-3.1-24b-instruct",
@@ -10642,7 +10803,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "allenai/olmo-2-0325-32b-instruct",
@@ -10678,7 +10840,8 @@
       },
       "per_request_limits": null,
       "supported_parameters": [],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "google/gemma-3-4b-it:free",
@@ -10722,7 +10885,8 @@
         "temperature",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "google/gemma-3-4b-it",
@@ -10771,7 +10935,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "google/gemma-3-12b-it:free",
@@ -10814,7 +10979,8 @@
         "temperature",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "google/gemma-3-12b-it",
@@ -10865,7 +11031,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "cohere/command-a",
@@ -10912,7 +11079,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-4o-mini-search-preview",
@@ -10950,7 +11118,8 @@
         "structured_outputs",
         "web_search_options"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-4o-search-preview",
@@ -10988,7 +11157,8 @@
         "structured_outputs",
         "web_search_options"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "google/gemma-3-27b-it:free",
@@ -11041,7 +11211,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "google/gemma-3-27b-it",
@@ -11098,7 +11269,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "thedrummer/skyfall-36b-v2",
@@ -11145,7 +11317,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "perplexity/sonar-reasoning-pro",
@@ -11192,7 +11365,8 @@
         "top_p",
         "web_search_options"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "perplexity/sonar-pro",
@@ -11237,7 +11411,8 @@
         "top_p",
         "web_search_options"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "perplexity/sonar-deep-research",
@@ -11283,7 +11458,8 @@
         "top_p",
         "web_search_options"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "qwen/qwq-32b",
@@ -11337,7 +11513,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "google/gemini-2.0-flash-lite-001",
@@ -11391,7 +11568,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": "2026-02-06"
     },
     {
       "id": "anthropic/claude-3.7-sonnet:thinking",
@@ -11444,7 +11622,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "anthropic/claude-3.7-sonnet",
@@ -11498,7 +11677,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-saba",
@@ -11544,7 +11724,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "meta-llama/llama-guard-3-8b",
@@ -11582,17 +11763,15 @@
       "supported_parameters": [
         "frequency_penalty",
         "max_tokens",
-        "min_p",
         "presence_penalty",
         "repetition_penalty",
-        "response_format",
         "seed",
-        "stop",
         "temperature",
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/o3-mini-high",
@@ -11637,7 +11816,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "google/gemini-2.0-flash-001",
@@ -11694,7 +11874,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "aion-labs/aion-1.0",
@@ -11736,7 +11917,8 @@
         "temperature",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "aion-labs/aion-1.0-mini",
@@ -11778,7 +11960,8 @@
         "temperature",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "aion-labs/aion-rp-llama-3.1-8b",
@@ -11818,7 +12001,8 @@
         "temperature",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen2.5-vl-72b-instruct",
@@ -11869,7 +12053,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/o3-mini",
@@ -11910,7 +12095,8 @@
         "tool_choice",
         "tools"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-small-24b-instruct-2501",
@@ -11966,7 +12152,8 @@
         "temperature": 0.3,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "deepseek/deepseek-r1-distill-qwen-32b",
@@ -12016,7 +12203,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "perplexity/sonar",
@@ -12061,7 +12249,8 @@
         "top_p",
         "web_search_options"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "deepseek/deepseek-r1-distill-llama-70b",
@@ -12115,7 +12304,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "deepseek/deepseek-r1",
@@ -12165,7 +12355,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "minimax/minimax-01",
@@ -12206,7 +12397,8 @@
         "temperature",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "microsoft/phi-4",
@@ -12255,7 +12447,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "sao10k/l3.1-70b-hanami-x1",
@@ -12303,7 +12496,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "deepseek/deepseek-chat",
@@ -12354,7 +12548,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "sao10k/l3.3-euryale-70b",
@@ -12403,7 +12598,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/o1",
@@ -12445,7 +12641,8 @@
         "tool_choice",
         "tools"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "cohere/command-r7b-12-2024",
@@ -12492,7 +12689,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "google/gemini-2.0-flash-exp:free",
@@ -12538,7 +12736,8 @@
         "tools",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": "2026-02-06"
     },
     {
       "id": "meta-llama/llama-3.3-70b-instruct:free",
@@ -12586,7 +12785,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "meta-llama/llama-3.3-70b-instruct",
@@ -12640,7 +12840,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "amazon/nova-lite-v1",
@@ -12684,7 +12885,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "amazon/nova-micro-v1",
@@ -12727,7 +12929,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "amazon/nova-pro-v1",
@@ -12771,7 +12974,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-4o-2024-11-20",
@@ -12822,7 +13026,8 @@
         "top_p",
         "web_search_options"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-large-2411",
@@ -12868,7 +13073,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-large-2407",
@@ -12914,7 +13120,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/pixtral-large-2411",
@@ -12961,7 +13168,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen-2.5-coder-32b-instruct",
@@ -13011,7 +13219,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "raifle/sorcererlm-8x22b",
@@ -13059,7 +13268,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "thedrummer/unslopnemo-12b",
@@ -13106,7 +13316,8 @@
         "tools",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "anthropic/claude-3.5-haiku",
@@ -13157,53 +13368,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
-    },
-    {
-      "id": "anthropic/claude-3.5-sonnet",
-      "canonical_slug": "anthropic/claude-3.5-sonnet",
-      "hugging_face_id": null,
-      "name": "Anthropic: Claude 3.5 Sonnet",
-      "created": 1729555200,
-      "description": "New Claude 3.5 Sonnet delivers better-than-Opus capabilities, faster-than-Sonnet speeds, at the same Sonnet prices. Sonnet is particularly good at:\n\n- Coding: Scores ~49% on SWE-Bench Verified, higher than the last best score, and without any fancy prompt scaffolding\n- Data science: Augments human data science expertise; navigates unstructured data while using multiple tools for insights\n- Visual processing: excelling at interpreting charts, graphs, and images, accurately transcribing text to derive insights beyond just the text alone\n- Agentic tasks: exceptional tool use, making it great at agentic tasks (i.e. complex, multi-step problem solving tasks that require engaging with other systems)\n\n#multimodal",
-      "context_length": 200000,
-      "architecture": {
-        "modality": "text+image->text",
-        "input_modalities": [
-          "text",
-          "image",
-          "file"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Claude",
-        "instruct_type": null
       },
-      "pricing": {
-        "prompt": "0.000006",
-        "completion": "0.00003",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
-      },
-      "top_provider": {
-        "context_length": 200000,
-        "max_completion_tokens": 8192,
-        "is_moderated": true
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "max_tokens",
-        "stop",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_k",
-        "top_p"
-      ],
-      "default_parameters": {}
+      "expiration_date": null
     },
     {
       "id": "anthracite-org/magnum-v4-72b",
@@ -13255,53 +13421,55 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
-      "id": "mistralai/ministral-3b",
-      "canonical_slug": "mistralai/ministral-3b",
+      "id": "anthropic/claude-3.5-sonnet",
+      "canonical_slug": "anthropic/claude-3.5-sonnet",
       "hugging_face_id": null,
-      "name": "Mistral: Ministral 3B",
-      "created": 1729123200,
-      "description": "Ministral 3B is a 3B parameter model optimized for on-device and edge computing. It excels in knowledge, commonsense reasoning, and function-calling, outperforming larger models like Mistral 7B on most benchmarks. Supporting up to 128k context length, it’s ideal for orchestrating agentic workflows and specialist tasks with efficient inference.",
-      "context_length": 131072,
+      "name": "Anthropic: Claude 3.5 Sonnet",
+      "created": 1729555200,
+      "description": "New Claude 3.5 Sonnet delivers better-than-Opus capabilities, faster-than-Sonnet speeds, at the same Sonnet prices. Sonnet is particularly good at:\n\n- Coding: Scores ~49% on SWE-Bench Verified, higher than the last best score, and without any fancy prompt scaffolding\n- Data science: Augments human data science expertise; navigates unstructured data while using multiple tools for insights\n- Visual processing: excelling at interpreting charts, graphs, and images, accurately transcribing text to derive insights beyond just the text alone\n- Agentic tasks: exceptional tool use, making it great at agentic tasks (i.e. complex, multi-step problem solving tasks that require engaging with other systems)\n\n#multimodal",
+      "context_length": 200000,
       "architecture": {
-        "modality": "text->text",
+        "modality": "text+image->text",
         "input_modalities": [
-          "text"
+          "text",
+          "image",
+          "file"
         ],
         "output_modalities": [
           "text"
         ],
-        "tokenizer": "Mistral",
+        "tokenizer": "Claude",
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.00000004",
-        "completion": "0.00000004"
+        "prompt": "0.000006",
+        "completion": "0.00003",
+        "request": "0",
+        "image": "0",
+        "web_search": "0",
+        "internal_reasoning": "0"
       },
       "top_provider": {
-        "context_length": 131072,
-        "max_completion_tokens": null,
-        "is_moderated": false
+        "context_length": 200000,
+        "max_completion_tokens": 8192,
+        "is_moderated": true
       },
       "per_request_limits": null,
       "supported_parameters": [
-        "frequency_penalty",
         "max_tokens",
-        "presence_penalty",
-        "response_format",
-        "seed",
         "stop",
-        "structured_outputs",
         "temperature",
         "tool_choice",
         "tools",
+        "top_k",
         "top_p"
       ],
-      "default_parameters": {
-        "temperature": 0.3
-      }
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "mistralai/ministral-8b",
@@ -13347,7 +13515,55 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
+    },
+    {
+      "id": "mistralai/ministral-3b",
+      "canonical_slug": "mistralai/ministral-3b",
+      "hugging_face_id": null,
+      "name": "Mistral: Ministral 3B",
+      "created": 1729123200,
+      "description": "Ministral 3B is a 3B parameter model optimized for on-device and edge computing. It excels in knowledge, commonsense reasoning, and function-calling, outperforming larger models like Mistral 7B on most benchmarks. Supporting up to 128k context length, it’s ideal for orchestrating agentic workflows and specialist tasks with efficient inference.",
+      "context_length": 131072,
+      "architecture": {
+        "modality": "text->text",
+        "input_modalities": [
+          "text"
+        ],
+        "output_modalities": [
+          "text"
+        ],
+        "tokenizer": "Mistral",
+        "instruct_type": null
+      },
+      "pricing": {
+        "prompt": "0.00000004",
+        "completion": "0.00000004"
+      },
+      "top_provider": {
+        "context_length": 131072,
+        "max_completion_tokens": null,
+        "is_moderated": false
+      },
+      "per_request_limits": null,
+      "supported_parameters": [
+        "frequency_penalty",
+        "max_tokens",
+        "presence_penalty",
+        "response_format",
+        "seed",
+        "stop",
+        "structured_outputs",
+        "temperature",
+        "tool_choice",
+        "tools",
+        "top_p"
+      ],
+      "default_parameters": {
+        "temperature": 0.3
+      },
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen-2.5-7b-instruct",
@@ -13401,7 +13617,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "nvidia/llama-3.1-nemotron-70b-instruct",
@@ -13451,48 +13668,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
-    },
-    {
-      "id": "inflection/inflection-3-productivity",
-      "canonical_slug": "inflection/inflection-3-productivity",
-      "hugging_face_id": null,
-      "name": "Inflection: Inflection 3 Productivity",
-      "created": 1728604800,
-      "description": "Inflection 3 Productivity is optimized for following instructions. It is better for tasks requiring JSON output or precise adherence to provided guidelines. It has access to recent news.\n\nFor emotional intelligence similar to Pi, see [Inflect 3 Pi](/inflection/inflection-3-pi)\n\nSee [Inflection's announcement](https://inflection.ai/blog/enterprise) for more details.",
-      "context_length": 8000,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Other",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0.0000025",
-        "completion": "0.00001",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
-      },
-      "top_provider": {
-        "context_length": 8000,
-        "max_completion_tokens": 1024,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "max_tokens",
-        "stop",
-        "temperature",
-        "top_p"
-      ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "inflection/inflection-3-pi",
@@ -13533,7 +13710,50 @@
         "temperature",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
+    },
+    {
+      "id": "inflection/inflection-3-productivity",
+      "canonical_slug": "inflection/inflection-3-productivity",
+      "hugging_face_id": null,
+      "name": "Inflection: Inflection 3 Productivity",
+      "created": 1728604800,
+      "description": "Inflection 3 Productivity is optimized for following instructions. It is better for tasks requiring JSON output or precise adherence to provided guidelines. It has access to recent news.\n\nFor emotional intelligence similar to Pi, see [Inflect 3 Pi](/inflection/inflection-3-pi)\n\nSee [Inflection's announcement](https://inflection.ai/blog/enterprise) for more details.",
+      "context_length": 8000,
+      "architecture": {
+        "modality": "text->text",
+        "input_modalities": [
+          "text"
+        ],
+        "output_modalities": [
+          "text"
+        ],
+        "tokenizer": "Other",
+        "instruct_type": null
+      },
+      "pricing": {
+        "prompt": "0.0000025",
+        "completion": "0.00001",
+        "request": "0",
+        "image": "0",
+        "web_search": "0",
+        "internal_reasoning": "0"
+      },
+      "top_provider": {
+        "context_length": 8000,
+        "max_completion_tokens": 1024,
+        "is_moderated": false
+      },
+      "per_request_limits": null,
+      "supported_parameters": [
+        "max_tokens",
+        "stop",
+        "temperature",
+        "top_p"
+      ],
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "thedrummer/rocinante-12b",
@@ -13585,52 +13805,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
-    },
-    {
-      "id": "meta-llama/llama-3.2-1b-instruct",
-      "canonical_slug": "meta-llama/llama-3.2-1b-instruct",
-      "hugging_face_id": "meta-llama/Llama-3.2-1B-Instruct",
-      "name": "Meta: Llama 3.2 1B Instruct",
-      "created": 1727222400,
-      "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate efficiently in low-resource environments while maintaining strong task performance.\n\nSupporting eight core languages and fine-tunable for more, Llama 1.3B is ideal for businesses or developers seeking lightweight yet powerful AI solutions that can operate in diverse multilingual settings without the high computational demand of larger models.\n\nClick here for the [original model card](https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/MODEL_CARD.md).\n\nUsage of this model is subject to [Meta's Acceptable Use Policy](https://www.llama.com/llama3/use-policy/).",
-      "context_length": 60000,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Llama3",
-        "instruct_type": "llama3"
-      },
-      "pricing": {
-        "prompt": "0.000000027",
-        "completion": "0.0000002",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
-      },
-      "top_provider": {
-        "context_length": 60000,
-        "max_completion_tokens": null,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "frequency_penalty",
-        "max_tokens",
-        "presence_penalty",
-        "repetition_penalty",
-        "seed",
-        "temperature",
-        "top_k",
-        "top_p"
-      ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "meta-llama/llama-3.2-3b-instruct:free",
@@ -13674,7 +13850,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "meta-llama/llama-3.2-3b-instruct",
@@ -13723,7 +13900,54 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
+    },
+    {
+      "id": "meta-llama/llama-3.2-1b-instruct",
+      "canonical_slug": "meta-llama/llama-3.2-1b-instruct",
+      "hugging_face_id": "meta-llama/Llama-3.2-1B-Instruct",
+      "name": "Meta: Llama 3.2 1B Instruct",
+      "created": 1727222400,
+      "description": "Llama 3.2 1B is a 1-billion-parameter language model focused on efficiently performing natural language tasks, such as summarization, dialogue, and multilingual text analysis. Its smaller size allows it to operate efficiently in low-resource environments while maintaining strong task performance.\n\nSupporting eight core languages and fine-tunable for more, Llama 1.3B is ideal for businesses or developers seeking lightweight yet powerful AI solutions that can operate in diverse multilingual settings without the high computational demand of larger models.\n\nClick here for the [original model card](https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/MODEL_CARD.md).\n\nUsage of this model is subject to [Meta's Acceptable Use Policy](https://www.llama.com/llama3/use-policy/).",
+      "context_length": 60000,
+      "architecture": {
+        "modality": "text->text",
+        "input_modalities": [
+          "text"
+        ],
+        "output_modalities": [
+          "text"
+        ],
+        "tokenizer": "Llama3",
+        "instruct_type": "llama3"
+      },
+      "pricing": {
+        "prompt": "0.000000027",
+        "completion": "0.0000002",
+        "request": "0",
+        "image": "0",
+        "web_search": "0",
+        "internal_reasoning": "0"
+      },
+      "top_provider": {
+        "context_length": 60000,
+        "max_completion_tokens": null,
+        "is_moderated": false
+      },
+      "per_request_limits": null,
+      "supported_parameters": [
+        "frequency_penalty",
+        "max_tokens",
+        "presence_penalty",
+        "repetition_penalty",
+        "seed",
+        "temperature",
+        "top_k",
+        "top_p"
+      ],
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "meta-llama/llama-3.2-11b-vision-instruct",
@@ -13773,7 +13997,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "qwen/qwen-2.5-72b-instruct",
@@ -13825,7 +14050,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "neversleep/llama-3.1-lumimaid-8b",
@@ -13870,7 +14096,8 @@
         "temperature",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "mistralai/pixtral-12b",
@@ -13925,7 +14152,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "cohere/command-r-08-2024",
@@ -13974,7 +14202,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "cohere/command-r-plus-08-2024",
@@ -14023,99 +14252,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
-    },
-    {
-      "id": "qwen/qwen-2.5-vl-7b-instruct:free",
-      "canonical_slug": "qwen/qwen-2-vl-7b-instruct",
-      "hugging_face_id": "Qwen/Qwen2.5-VL-7B-Instruct",
-      "name": "Qwen: Qwen2.5-VL 7B Instruct (free)",
-      "created": 1724803200,
-      "description": "Qwen2.5 VL 7B is a multimodal LLM from the Qwen Team with the following key enhancements:\n\n- SoTA understanding of images of various resolution & ratio: Qwen2.5-VL achieves state-of-the-art performance on visual understanding benchmarks, including MathVista, DocVQA, RealWorldQA, MTVQA, etc.\n\n- Understanding videos of 20min+: Qwen2.5-VL can understand videos over 20 minutes for high-quality video-based question answering, dialog, content creation, etc.\n\n- Agent that can operate your mobiles, robots, etc.: with the abilities of complex reasoning and decision making, Qwen2.5-VL can be integrated with devices like mobile phones, robots, etc., for automatic operation based on visual environment and text instructions.\n\n- Multilingual Support: to serve global users, besides English and Chinese, Qwen2.5-VL now supports the understanding of texts in different languages inside images, including most European languages, Japanese, Korean, Arabic, Vietnamese, etc.\n\nFor more details, see this [blog post](https://qwenlm.github.io/blog/qwen2-vl/) and [GitHub repo](https://github.com/QwenLM/Qwen2-VL).\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
-      "context_length": 32768,
-      "architecture": {
-        "modality": "text+image->text",
-        "input_modalities": [
-          "text",
-          "image"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Qwen",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0",
-        "completion": "0",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
-      },
-      "top_provider": {
-        "context_length": 32768,
-        "max_completion_tokens": null,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "frequency_penalty",
-        "max_tokens",
-        "presence_penalty",
-        "repetition_penalty",
-        "temperature"
-      ],
-      "default_parameters": {}
-    },
-    {
-      "id": "qwen/qwen-2.5-vl-7b-instruct",
-      "canonical_slug": "qwen/qwen-2-vl-7b-instruct",
-      "hugging_face_id": "Qwen/Qwen2.5-VL-7B-Instruct",
-      "name": "Qwen: Qwen2.5-VL 7B Instruct",
-      "created": 1724803200,
-      "description": "Qwen2.5 VL 7B is a multimodal LLM from the Qwen Team with the following key enhancements:\n\n- SoTA understanding of images of various resolution & ratio: Qwen2.5-VL achieves state-of-the-art performance on visual understanding benchmarks, including MathVista, DocVQA, RealWorldQA, MTVQA, etc.\n\n- Understanding videos of 20min+: Qwen2.5-VL can understand videos over 20 minutes for high-quality video-based question answering, dialog, content creation, etc.\n\n- Agent that can operate your mobiles, robots, etc.: with the abilities of complex reasoning and decision making, Qwen2.5-VL can be integrated with devices like mobile phones, robots, etc., for automatic operation based on visual environment and text instructions.\n\n- Multilingual Support: to serve global users, besides English and Chinese, Qwen2.5-VL now supports the understanding of texts in different languages inside images, including most European languages, Japanese, Korean, Arabic, Vietnamese, etc.\n\nFor more details, see this [blog post](https://qwenlm.github.io/blog/qwen2-vl/) and [GitHub repo](https://github.com/QwenLM/Qwen2-VL).\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
-      "context_length": 32768,
-      "architecture": {
-        "modality": "text+image->text",
-        "input_modalities": [
-          "text",
-          "image"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Qwen",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.0000002",
-        "request": "0",
-        "image": "0.0001445",
-        "web_search": "0",
-        "internal_reasoning": "0"
-      },
-      "top_provider": {
-        "context_length": 32768,
-        "max_completion_tokens": null,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "frequency_penalty",
-        "logit_bias",
-        "max_tokens",
-        "min_p",
-        "presence_penalty",
-        "repetition_penalty",
-        "seed",
-        "stop",
-        "temperature",
-        "top_k",
-        "top_p"
-      ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "sao10k/l3.1-euryale-70b",
@@ -14166,7 +14304,102 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
+    },
+    {
+      "id": "qwen/qwen-2.5-vl-7b-instruct:free",
+      "canonical_slug": "qwen/qwen-2-vl-7b-instruct",
+      "hugging_face_id": "Qwen/Qwen2.5-VL-7B-Instruct",
+      "name": "Qwen: Qwen2.5-VL 7B Instruct (free)",
+      "created": 1724803200,
+      "description": "Qwen2.5 VL 7B is a multimodal LLM from the Qwen Team with the following key enhancements:\n\n- SoTA understanding of images of various resolution & ratio: Qwen2.5-VL achieves state-of-the-art performance on visual understanding benchmarks, including MathVista, DocVQA, RealWorldQA, MTVQA, etc.\n\n- Understanding videos of 20min+: Qwen2.5-VL can understand videos over 20 minutes for high-quality video-based question answering, dialog, content creation, etc.\n\n- Agent that can operate your mobiles, robots, etc.: with the abilities of complex reasoning and decision making, Qwen2.5-VL can be integrated with devices like mobile phones, robots, etc., for automatic operation based on visual environment and text instructions.\n\n- Multilingual Support: to serve global users, besides English and Chinese, Qwen2.5-VL now supports the understanding of texts in different languages inside images, including most European languages, Japanese, Korean, Arabic, Vietnamese, etc.\n\nFor more details, see this [blog post](https://qwenlm.github.io/blog/qwen2-vl/) and [GitHub repo](https://github.com/QwenLM/Qwen2-VL).\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
+      "context_length": 32768,
+      "architecture": {
+        "modality": "text+image->text",
+        "input_modalities": [
+          "text",
+          "image"
+        ],
+        "output_modalities": [
+          "text"
+        ],
+        "tokenizer": "Qwen",
+        "instruct_type": null
+      },
+      "pricing": {
+        "prompt": "0",
+        "completion": "0",
+        "request": "0",
+        "image": "0",
+        "web_search": "0",
+        "internal_reasoning": "0"
+      },
+      "top_provider": {
+        "context_length": 32768,
+        "max_completion_tokens": null,
+        "is_moderated": false
+      },
+      "per_request_limits": null,
+      "supported_parameters": [
+        "frequency_penalty",
+        "max_tokens",
+        "presence_penalty",
+        "repetition_penalty",
+        "temperature"
+      ],
+      "default_parameters": {},
+      "expiration_date": null
+    },
+    {
+      "id": "qwen/qwen-2.5-vl-7b-instruct",
+      "canonical_slug": "qwen/qwen-2-vl-7b-instruct",
+      "hugging_face_id": "Qwen/Qwen2.5-VL-7B-Instruct",
+      "name": "Qwen: Qwen2.5-VL 7B Instruct",
+      "created": 1724803200,
+      "description": "Qwen2.5 VL 7B is a multimodal LLM from the Qwen Team with the following key enhancements:\n\n- SoTA understanding of images of various resolution & ratio: Qwen2.5-VL achieves state-of-the-art performance on visual understanding benchmarks, including MathVista, DocVQA, RealWorldQA, MTVQA, etc.\n\n- Understanding videos of 20min+: Qwen2.5-VL can understand videos over 20 minutes for high-quality video-based question answering, dialog, content creation, etc.\n\n- Agent that can operate your mobiles, robots, etc.: with the abilities of complex reasoning and decision making, Qwen2.5-VL can be integrated with devices like mobile phones, robots, etc., for automatic operation based on visual environment and text instructions.\n\n- Multilingual Support: to serve global users, besides English and Chinese, Qwen2.5-VL now supports the understanding of texts in different languages inside images, including most European languages, Japanese, Korean, Arabic, Vietnamese, etc.\n\nFor more details, see this [blog post](https://qwenlm.github.io/blog/qwen2-vl/) and [GitHub repo](https://github.com/QwenLM/Qwen2-VL).\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
+      "context_length": 32768,
+      "architecture": {
+        "modality": "text+image->text",
+        "input_modalities": [
+          "text",
+          "image"
+        ],
+        "output_modalities": [
+          "text"
+        ],
+        "tokenizer": "Qwen",
+        "instruct_type": null
+      },
+      "pricing": {
+        "prompt": "0.0000002",
+        "completion": "0.0000002",
+        "request": "0",
+        "image": "0.0001445",
+        "web_search": "0",
+        "internal_reasoning": "0"
+      },
+      "top_provider": {
+        "context_length": 32768,
+        "max_completion_tokens": null,
+        "is_moderated": false
+      },
+      "per_request_limits": null,
+      "supported_parameters": [
+        "frequency_penalty",
+        "logit_bias",
+        "max_tokens",
+        "min_p",
+        "presence_penalty",
+        "repetition_penalty",
+        "seed",
+        "stop",
+        "temperature",
+        "top_k",
+        "top_p"
+      ],
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "nousresearch/hermes-3-llama-3.1-70b",
@@ -14215,7 +14448,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "nousresearch/hermes-3-llama-3.1-405b:free",
@@ -14259,7 +14493,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "nousresearch/hermes-3-llama-3.1-405b",
@@ -14307,7 +14542,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/chatgpt-4o-latest",
@@ -14353,7 +14589,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "sao10k/l3-lunaris-8b",
@@ -14402,7 +14639,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-4o-2024-08-06",
@@ -14457,7 +14695,8 @@
         "top_p",
         "web_search_options"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "meta-llama/llama-3.1-405b",
@@ -14505,58 +14744,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
-    },
-    {
-      "id": "meta-llama/llama-3.1-70b-instruct",
-      "canonical_slug": "meta-llama/llama-3.1-70b-instruct",
-      "hugging_face_id": "meta-llama/Meta-Llama-3.1-70B-Instruct",
-      "name": "Meta: Llama 3.1 70B Instruct",
-      "created": 1721692800,
-      "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instruct-tuned version is optimized for high quality dialogue usecases.\n\nIt has demonstrated strong performance compared to leading closed-source models in human evaluations.\n\nTo read more about the model release, [click here](https://ai.meta.com/blog/meta-llama-3-1/). Usage of this model is subject to [Meta's Acceptable Use Policy](https://llama.meta.com/llama3/use-policy/).",
-      "context_length": 131072,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Llama3",
-        "instruct_type": "llama3"
-      },
-      "pricing": {
-        "prompt": "0.0000004",
-        "completion": "0.0000004",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
-      },
-      "top_provider": {
-        "context_length": 131072,
-        "max_completion_tokens": null,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "frequency_penalty",
-        "logit_bias",
-        "max_tokens",
-        "min_p",
-        "presence_penalty",
-        "repetition_penalty",
-        "response_format",
-        "seed",
-        "stop",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_k",
-        "top_p"
-      ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "meta-llama/llama-3.1-8b-instruct",
@@ -14610,7 +14799,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "meta-llama/llama-3.1-405b-instruct:free",
@@ -14652,7 +14842,8 @@
         "repetition_penalty",
         "temperature"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "meta-llama/llama-3.1-405b-instruct",
@@ -14704,7 +14895,60 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
+    },
+    {
+      "id": "meta-llama/llama-3.1-70b-instruct",
+      "canonical_slug": "meta-llama/llama-3.1-70b-instruct",
+      "hugging_face_id": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+      "name": "Meta: Llama 3.1 70B Instruct",
+      "created": 1721692800,
+      "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors. This 70B instruct-tuned version is optimized for high quality dialogue usecases.\n\nIt has demonstrated strong performance compared to leading closed-source models in human evaluations.\n\nTo read more about the model release, [click here](https://ai.meta.com/blog/meta-llama-3-1/). Usage of this model is subject to [Meta's Acceptable Use Policy](https://llama.meta.com/llama3/use-policy/).",
+      "context_length": 131072,
+      "architecture": {
+        "modality": "text->text",
+        "input_modalities": [
+          "text"
+        ],
+        "output_modalities": [
+          "text"
+        ],
+        "tokenizer": "Llama3",
+        "instruct_type": "llama3"
+      },
+      "pricing": {
+        "prompt": "0.0000004",
+        "completion": "0.0000004",
+        "request": "0",
+        "image": "0",
+        "web_search": "0",
+        "internal_reasoning": "0"
+      },
+      "top_provider": {
+        "context_length": 131072,
+        "max_completion_tokens": null,
+        "is_moderated": false
+      },
+      "per_request_limits": null,
+      "supported_parameters": [
+        "frequency_penalty",
+        "logit_bias",
+        "max_tokens",
+        "min_p",
+        "presence_penalty",
+        "repetition_penalty",
+        "response_format",
+        "seed",
+        "stop",
+        "temperature",
+        "tool_choice",
+        "tools",
+        "top_k",
+        "top_p"
+      ],
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-nemo",
@@ -14756,58 +15000,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
-    },
-    {
-      "id": "openai/gpt-4o-mini",
-      "canonical_slug": "openai/gpt-4o-mini",
-      "hugging_face_id": null,
-      "name": "OpenAI: GPT-4o-mini",
-      "created": 1721260800,
-      "description": "GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), supporting both text and image inputs with text outputs.\n\nAs their most advanced small model, it is many multiples more affordable than other recent frontier models, and more than 60% cheaper than [GPT-3.5 Turbo](/models/openai/gpt-3.5-turbo). It maintains SOTA intelligence, while being significantly more cost-effective.\n\nGPT-4o mini achieves an 82% score on MMLU and presently ranks higher than GPT-4 on chat preferences [common leaderboards](https://arena.lmsys.org/).\n\nCheck out the [launch announcement](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) to learn more.\n\n#multimodal",
-      "context_length": 128000,
-      "architecture": {
-        "modality": "text+image->text",
-        "input_modalities": [
-          "text",
-          "image",
-          "file"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "GPT",
-        "instruct_type": null
       },
-      "pricing": {
-        "prompt": "0.00000015",
-        "completion": "0.0000006",
-        "input_cache_read": "0.000000075"
-      },
-      "top_provider": {
-        "context_length": 128000,
-        "max_completion_tokens": 16384,
-        "is_moderated": true
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "frequency_penalty",
-        "logit_bias",
-        "logprobs",
-        "max_tokens",
-        "presence_penalty",
-        "response_format",
-        "seed",
-        "stop",
-        "structured_outputs",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_logprobs",
-        "top_p",
-        "web_search_options"
-      ],
-      "default_parameters": {}
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-4o-mini-2024-07-18",
@@ -14858,7 +15052,60 @@
         "top_p",
         "web_search_options"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
+    },
+    {
+      "id": "openai/gpt-4o-mini",
+      "canonical_slug": "openai/gpt-4o-mini",
+      "hugging_face_id": null,
+      "name": "OpenAI: GPT-4o-mini",
+      "created": 1721260800,
+      "description": "GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), supporting both text and image inputs with text outputs.\n\nAs their most advanced small model, it is many multiples more affordable than other recent frontier models, and more than 60% cheaper than [GPT-3.5 Turbo](/models/openai/gpt-3.5-turbo). It maintains SOTA intelligence, while being significantly more cost-effective.\n\nGPT-4o mini achieves an 82% score on MMLU and presently ranks higher than GPT-4 on chat preferences [common leaderboards](https://arena.lmsys.org/).\n\nCheck out the [launch announcement](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) to learn more.\n\n#multimodal",
+      "context_length": 128000,
+      "architecture": {
+        "modality": "text+image->text",
+        "input_modalities": [
+          "text",
+          "image",
+          "file"
+        ],
+        "output_modalities": [
+          "text"
+        ],
+        "tokenizer": "GPT",
+        "instruct_type": null
+      },
+      "pricing": {
+        "prompt": "0.00000015",
+        "completion": "0.0000006",
+        "input_cache_read": "0.000000075"
+      },
+      "top_provider": {
+        "context_length": 128000,
+        "max_completion_tokens": 16384,
+        "is_moderated": true
+      },
+      "per_request_limits": null,
+      "supported_parameters": [
+        "frequency_penalty",
+        "logit_bias",
+        "logprobs",
+        "max_tokens",
+        "presence_penalty",
+        "response_format",
+        "seed",
+        "stop",
+        "structured_outputs",
+        "temperature",
+        "tool_choice",
+        "tools",
+        "top_logprobs",
+        "top_p",
+        "web_search_options"
+      ],
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "google/gemma-2-27b-it",
@@ -14903,7 +15150,8 @@
         "temperature",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "google/gemma-2-9b-it",
@@ -14947,7 +15195,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "sao10k/l3-euryale-70b",
@@ -14995,16 +15244,17 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
-      "id": "mistralai/mistral-7b-instruct-v0.3",
-      "canonical_slug": "mistralai/mistral-7b-instruct-v0.3",
-      "hugging_face_id": "mistralai/Mistral-7B-Instruct-v0.3",
-      "name": "Mistral: Mistral 7B Instruct v0.3",
+      "id": "nousresearch/hermes-2-pro-llama-3-8b",
+      "canonical_slug": "nousresearch/hermes-2-pro-llama-3-8b",
+      "hugging_face_id": "NousResearch/Hermes-2-Pro-Llama-3-8B",
+      "name": "NousResearch: Hermes 2 Pro - Llama-3 8B",
       "created": 1716768000,
-      "description": "A high-performing, industry-standard 7.3B parameter model, with optimizations for speed and context length.\n\nAn improved version of [Mistral 7B Instruct v0.2](/models/mistralai/mistral-7b-instruct-v0.2), with the following changes:\n\n- Extended vocabulary to 32768\n- Supports v3 Tokenizer\n- Supports function calling\n\nNOTE: Support for function calling depends on the provider.",
-      "context_length": 32768,
+      "description": "Hermes 2 Pro is an upgraded, retrained version of Nous Hermes 2, consisting of an updated and cleaned version of the OpenHermes 2.5 Dataset, as well as a newly introduced Function Calling and JSON Mode dataset developed in-house.",
+      "context_length": 8192,
       "architecture": {
         "modality": "text->text",
         "input_modalities": [
@@ -15013,38 +15263,38 @@
         "output_modalities": [
           "text"
         ],
-        "tokenizer": "Mistral",
-        "instruct_type": "mistral"
+        "tokenizer": "Llama3",
+        "instruct_type": "chatml"
       },
       "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.0000002",
+        "prompt": "0.000000025",
+        "completion": "0.00000008",
         "request": "0",
         "image": "0",
         "web_search": "0",
         "internal_reasoning": "0"
       },
       "top_provider": {
-        "context_length": 32768,
-        "max_completion_tokens": 4096,
+        "context_length": 8192,
+        "max_completion_tokens": 2048,
         "is_moderated": false
       },
       "per_request_limits": null,
       "supported_parameters": [
         "frequency_penalty",
-        "logit_bias",
         "max_tokens",
-        "min_p",
         "presence_penalty",
         "repetition_penalty",
+        "response_format",
+        "seed",
         "stop",
+        "structured_outputs",
         "temperature",
         "top_k",
         "top_p"
       ],
-      "default_parameters": {
-        "temperature": 0.3
-      }
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-7b-instruct",
@@ -15093,15 +15343,66 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
-      "id": "nousresearch/hermes-2-pro-llama-3-8b",
-      "canonical_slug": "nousresearch/hermes-2-pro-llama-3-8b",
-      "hugging_face_id": "NousResearch/Hermes-2-Pro-Llama-3-8B",
-      "name": "NousResearch: Hermes 2 Pro - Llama-3 8B",
+      "id": "mistralai/mistral-7b-instruct-v0.3",
+      "canonical_slug": "mistralai/mistral-7b-instruct-v0.3",
+      "hugging_face_id": "mistralai/Mistral-7B-Instruct-v0.3",
+      "name": "Mistral: Mistral 7B Instruct v0.3",
       "created": 1716768000,
-      "description": "Hermes 2 Pro is an upgraded, retrained version of Nous Hermes 2, consisting of an updated and cleaned version of the OpenHermes 2.5 Dataset, as well as a newly introduced Function Calling and JSON Mode dataset developed in-house.",
+      "description": "A high-performing, industry-standard 7.3B parameter model, with optimizations for speed and context length.\n\nAn improved version of [Mistral 7B Instruct v0.2](/models/mistralai/mistral-7b-instruct-v0.2), with the following changes:\n\n- Extended vocabulary to 32768\n- Supports v3 Tokenizer\n- Supports function calling\n\nNOTE: Support for function calling depends on the provider.",
+      "context_length": 32768,
+      "architecture": {
+        "modality": "text->text",
+        "input_modalities": [
+          "text"
+        ],
+        "output_modalities": [
+          "text"
+        ],
+        "tokenizer": "Mistral",
+        "instruct_type": "mistral"
+      },
+      "pricing": {
+        "prompt": "0.0000002",
+        "completion": "0.0000002",
+        "request": "0",
+        "image": "0",
+        "web_search": "0",
+        "internal_reasoning": "0"
+      },
+      "top_provider": {
+        "context_length": 32768,
+        "max_completion_tokens": 4096,
+        "is_moderated": false
+      },
+      "per_request_limits": null,
+      "supported_parameters": [
+        "frequency_penalty",
+        "logit_bias",
+        "max_tokens",
+        "min_p",
+        "presence_penalty",
+        "repetition_penalty",
+        "stop",
+        "temperature",
+        "top_k",
+        "top_p"
+      ],
+      "default_parameters": {
+        "temperature": 0.3
+      },
+      "expiration_date": null
+    },
+    {
+      "id": "meta-llama/llama-guard-2-8b",
+      "canonical_slug": "meta-llama/llama-guard-2-8b",
+      "hugging_face_id": "meta-llama/Meta-Llama-Guard-2-8B",
+      "name": "Meta: LlamaGuard 2 8B",
+      "created": 1715558400,
+      "description": "This safeguard model has 8B parameters and is based on the Llama 3 family. Just like is predecessor, [LlamaGuard 1](https://huggingface.co/meta-llama/LlamaGuard-7b), it can do both prompt and response classification.\n\nLlamaGuard 2 acts as a normal LLM would, generating text that indicates whether the given input/output is safe/unsafe. If deemed unsafe, it will also share the content categories violated.\n\nFor best results, please use raw prompt input or the `/completions` endpoint, instead of the chat API.\n\nIt has demonstrated strong performance compared to leading closed-source models in human evaluations.\n\nTo read more about the model release, [click here](https://ai.meta.com/blog/meta-llama-3/). Usage of this model is subject to [Meta's Acceptable Use Policy](https://llama.meta.com/llama3/use-policy/).",
       "context_length": 8192,
       "architecture": {
         "modality": "text->text",
@@ -15112,11 +15413,11 @@
           "text"
         ],
         "tokenizer": "Llama3",
-        "instruct_type": "chatml"
+        "instruct_type": "none"
       },
       "pricing": {
-        "prompt": "0.000000025",
-        "completion": "0.00000008",
+        "prompt": "0.0000002",
+        "completion": "0.0000002",
         "request": "0",
         "image": "0",
         "web_search": "0",
@@ -15124,24 +15425,24 @@
       },
       "top_provider": {
         "context_length": 8192,
-        "max_completion_tokens": 2048,
+        "max_completion_tokens": null,
         "is_moderated": false
       },
       "per_request_limits": null,
       "supported_parameters": [
         "frequency_penalty",
+        "logit_bias",
         "max_tokens",
+        "min_p",
         "presence_penalty",
         "repetition_penalty",
-        "response_format",
-        "seed",
         "stop",
-        "structured_outputs",
         "temperature",
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-4o-2024-05-13",
@@ -15191,54 +15492,8 @@
         "top_p",
         "web_search_options"
       ],
-      "default_parameters": {}
-    },
-    {
-      "id": "meta-llama/llama-guard-2-8b",
-      "canonical_slug": "meta-llama/llama-guard-2-8b",
-      "hugging_face_id": "meta-llama/Meta-Llama-Guard-2-8B",
-      "name": "Meta: LlamaGuard 2 8B",
-      "created": 1715558400,
-      "description": "This safeguard model has 8B parameters and is based on the Llama 3 family. Just like is predecessor, [LlamaGuard 1](https://huggingface.co/meta-llama/LlamaGuard-7b), it can do both prompt and response classification.\n\nLlamaGuard 2 acts as a normal LLM would, generating text that indicates whether the given input/output is safe/unsafe. If deemed unsafe, it will also share the content categories violated.\n\nFor best results, please use raw prompt input or the `/completions` endpoint, instead of the chat API.\n\nIt has demonstrated strong performance compared to leading closed-source models in human evaluations.\n\nTo read more about the model release, [click here](https://ai.meta.com/blog/meta-llama-3/). Usage of this model is subject to [Meta's Acceptable Use Policy](https://llama.meta.com/llama3/use-policy/).",
-      "context_length": 8192,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Llama3",
-        "instruct_type": "none"
-      },
-      "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.0000002",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
-      },
-      "top_provider": {
-        "context_length": 8192,
-        "max_completion_tokens": null,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "frequency_penalty",
-        "logit_bias",
-        "max_tokens",
-        "min_p",
-        "presence_penalty",
-        "repetition_penalty",
-        "stop",
-        "temperature",
-        "top_k",
-        "top_p"
-      ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-4o",
@@ -15289,7 +15544,8 @@
         "top_p",
         "web_search_options"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-4o:extended",
@@ -15339,7 +15595,8 @@
         "top_p",
         "web_search_options"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "meta-llama/llama-3-70b-instruct",
@@ -15389,7 +15646,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "meta-llama/llama-3-8b-instruct",
@@ -15440,7 +15698,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "mistralai/mixtral-8x22b-instruct",
@@ -15486,7 +15745,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "microsoft/wizardlm-2-8x22b",
@@ -15534,7 +15794,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-4-turbo",
@@ -15582,7 +15843,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "anthropic/claude-3-haiku",
@@ -15629,7 +15891,8 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-large",
@@ -15675,54 +15938,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
-    },
-    {
-      "id": "openai/gpt-4-turbo-preview",
-      "canonical_slug": "openai/gpt-4-turbo-preview",
-      "hugging_face_id": null,
-      "name": "OpenAI: GPT-4 Turbo Preview",
-      "created": 1706140800,
-      "description": "The preview GPT-4 model with improved instruction following, JSON mode, reproducible outputs, parallel function calling, and more. Training data: up to Dec 2023.\n\n**Note:** heavily rate limited by OpenAI while in preview.",
-      "context_length": 128000,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "GPT",
-        "instruct_type": null
       },
-      "pricing": {
-        "prompt": "0.00001",
-        "completion": "0.00003"
-      },
-      "top_provider": {
-        "context_length": 128000,
-        "max_completion_tokens": 4096,
-        "is_moderated": true
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "frequency_penalty",
-        "logit_bias",
-        "logprobs",
-        "max_tokens",
-        "presence_penalty",
-        "response_format",
-        "seed",
-        "stop",
-        "structured_outputs",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_logprobs",
-        "top_p"
-      ],
-      "default_parameters": {}
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-3.5-turbo-0613",
@@ -15773,7 +15990,56 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
+    },
+    {
+      "id": "openai/gpt-4-turbo-preview",
+      "canonical_slug": "openai/gpt-4-turbo-preview",
+      "hugging_face_id": null,
+      "name": "OpenAI: GPT-4 Turbo Preview",
+      "created": 1706140800,
+      "description": "The preview GPT-4 model with improved instruction following, JSON mode, reproducible outputs, parallel function calling, and more. Training data: up to Dec 2023.\n\n**Note:** heavily rate limited by OpenAI while in preview.",
+      "context_length": 128000,
+      "architecture": {
+        "modality": "text->text",
+        "input_modalities": [
+          "text"
+        ],
+        "output_modalities": [
+          "text"
+        ],
+        "tokenizer": "GPT",
+        "instruct_type": null
+      },
+      "pricing": {
+        "prompt": "0.00001",
+        "completion": "0.00003"
+      },
+      "top_provider": {
+        "context_length": 128000,
+        "max_completion_tokens": 4096,
+        "is_moderated": true
+      },
+      "per_request_limits": null,
+      "supported_parameters": [
+        "frequency_penalty",
+        "logit_bias",
+        "logprobs",
+        "max_tokens",
+        "presence_penalty",
+        "response_format",
+        "seed",
+        "stop",
+        "structured_outputs",
+        "temperature",
+        "tool_choice",
+        "tools",
+        "top_logprobs",
+        "top_p"
+      ],
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-tiny",
@@ -15819,7 +16085,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-7b-instruct-v0.2",
@@ -15868,7 +16135,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "mistralai/mixtral-8x7b-instruct",
@@ -15921,7 +16189,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "neversleep/noromaid-20b",
@@ -15974,7 +16243,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "alpindale/goliath-120b",
@@ -16026,7 +16296,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openrouter/auto",
@@ -16062,7 +16333,8 @@
         "temperature": null,
         "top_p": null,
         "frequency_penalty": null
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-4-1106-preview",
@@ -16109,7 +16381,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-3.5-turbo-instruct",
@@ -16154,7 +16427,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "mistralai/mistral-7b-instruct-v0.1",
@@ -16201,7 +16475,8 @@
       ],
       "default_parameters": {
         "temperature": 0.3
-      }
+      },
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-3.5-turbo-16k",
@@ -16248,7 +16523,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "mancer/weaver",
@@ -16300,7 +16576,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "undi95/remm-slerp-l2-13b",
@@ -16353,7 +16630,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "gryphe/mythomax-l2-13b",
@@ -16406,54 +16684,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
-    },
-    {
-      "id": "openai/gpt-3.5-turbo",
-      "canonical_slug": "openai/gpt-3.5-turbo",
-      "hugging_face_id": null,
-      "name": "OpenAI: GPT-3.5 Turbo",
-      "created": 1685232000,
-      "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
-      "context_length": 16385,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "GPT",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0.0000005",
-        "completion": "0.0000015"
-      },
-      "top_provider": {
-        "context_length": 16385,
-        "max_completion_tokens": 4096,
-        "is_moderated": true
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "frequency_penalty",
-        "logit_bias",
-        "logprobs",
-        "max_tokens",
-        "presence_penalty",
-        "response_format",
-        "seed",
-        "stop",
-        "structured_outputs",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_logprobs",
-        "top_p"
-      ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-4-0314",
@@ -16500,7 +16732,8 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
     },
     {
       "id": "openai/gpt-4",
@@ -16547,7 +16780,56 @@
         "top_logprobs",
         "top_p"
       ],
-      "default_parameters": {}
+      "default_parameters": {},
+      "expiration_date": null
+    },
+    {
+      "id": "openai/gpt-3.5-turbo",
+      "canonical_slug": "openai/gpt-3.5-turbo",
+      "hugging_face_id": null,
+      "name": "OpenAI: GPT-3.5 Turbo",
+      "created": 1685232000,
+      "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
+      "context_length": 16385,
+      "architecture": {
+        "modality": "text->text",
+        "input_modalities": [
+          "text"
+        ],
+        "output_modalities": [
+          "text"
+        ],
+        "tokenizer": "GPT",
+        "instruct_type": null
+      },
+      "pricing": {
+        "prompt": "0.0000005",
+        "completion": "0.0000015"
+      },
+      "top_provider": {
+        "context_length": 16385,
+        "max_completion_tokens": 4096,
+        "is_moderated": true
+      },
+      "per_request_limits": null,
+      "supported_parameters": [
+        "frequency_penalty",
+        "logit_bias",
+        "logprobs",
+        "max_tokens",
+        "presence_penalty",
+        "response_format",
+        "seed",
+        "stop",
+        "structured_outputs",
+        "temperature",
+        "tool_choice",
+        "tools",
+        "top_logprobs",
+        "top_p"
+      ],
+      "default_parameters": {},
+      "expiration_date": null
     }
   ]
 }
