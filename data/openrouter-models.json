@@ -9009,7 +9009,7 @@
       "name": "DeepSeek: R1 0528",
       "created": 1748455170,
       "description": "May 28th update to the [original DeepSeek R1](/deepseek/deepseek-r1) Performance on par with [OpenAI o1](/openai/o1), but open-sourced and with fully open reasoning tokens. It's 671B parameters in size, with 37B active in an inference pass.\n\nFully open-source model.",
-      "context_length": 131072,
+      "context_length": 163840,
       "architecture": {
         "modality": "text->text",
         "input_modalities": [
@@ -9022,18 +9022,16 @@
         "instruct_type": "deepseek-r1"
       },
       "pricing": {
-        "prompt": "0.00000045",
-        "completion": "0.00000215",
+        "prompt": "0.0000004",
+        "completion": "0.00000175",
         "request": "0",
         "image": "0",
         "web_search": "0",
-        "internal_reasoning": "0",
-        "input_cache_read": "0",
-        "input_cache_write": "0"
+        "internal_reasoning": "0"
       },
       "top_provider": {
-        "context_length": 131072,
-        "max_completion_tokens": 32768,
+        "context_length": 163840,
+        "max_completion_tokens": 65536,
         "is_moderated": false
       },
       "per_request_limits": null,
