@@ -3340,7 +3340,7 @@
       "hugging_face_id": "LiquidAI/LFM2-8B-A1B",
       "name": "LiquidAI/LFM2-8B-A1B",
       "created": 1760970984,
-      "description": "Model created via inbox interface",
+      "description": "LFM2-8B-A1B is an efficient on-device Mixture-of-Experts (MoE) model from Liquid AI’s LFM2 family, built for fast, high-quality inference on edge hardware. It uses 8.3B total parameters with only ~1.5B active per token, delivering strong performance while keeping compute and memory usage low—making it ideal for phones, tablets, and laptops.",
       "context_length": 32768,
       "architecture": {
         "modality": "text->text",
@@ -3379,7 +3379,11 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {},
+      "default_parameters": {
+        "temperature": null,
+        "top_p": null,
+        "frequency_penalty": null
+      },
       "expiration_date": null
     },
     {
@@ -4685,6 +4689,7 @@
         "completion": "0.0000004",
         "request": "0",
         "image": "0",
+        "audio": "0.0000003",
         "web_search": "0",
         "internal_reasoning": "0",
         "input_cache_read": "0.00000001",
@@ -4692,7 +4697,7 @@
       },
       "top_provider": {
         "context_length": 1048576,
-        "max_completion_tokens": 65536,
+        "max_completion_tokens": 65535,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -7782,6 +7787,7 @@
         "completion": "0.0000004",
         "request": "0",
         "image": "0",
+        "audio": "0.0000003",
         "web_search": "0",
         "internal_reasoning": "0",
         "input_cache_read": "0.00000001",

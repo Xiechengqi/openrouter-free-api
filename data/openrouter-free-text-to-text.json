@@ -1,5 +1,15 @@
 [
   {
+    "model": "LiquidAI/LFM2.5-1.2B-Thinking (free)",
+    "id": "liquid/lfm-2.5-1.2b-thinking:free",
+    "context": "32768"
+  },
+  {
+    "model": "LiquidAI/LFM2.5-1.2B-Instruct (free)",
+    "id": "liquid/lfm-2.5-1.2b-instruct:free",
+    "context": "32768"
+  },
+  {
     "model": "AllenAI: Molmo2 8B (free)",
     "id": "allenai/molmo-2-8b:free",
     "context": "36864"
