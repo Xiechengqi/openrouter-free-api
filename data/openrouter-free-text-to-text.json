@@ -1,11 +1,11 @@
 [
   {
-    "model": "LiquidAI/LFM2.5-1.2B-Thinking (free)",
+    "model": "LiquidAI: LFM2.5-1.2B-Thinking (free)",
     "id": "liquid/lfm-2.5-1.2b-thinking:free",
     "context": "32768"
   },
   {
-    "model": "LiquidAI/LFM2.5-1.2B-Instruct (free)",
+    "model": "LiquidAI: LFM2.5-1.2B-Instruct (free)",
     "id": "liquid/lfm-2.5-1.2b-instruct:free",
     "context": "32768"
   },
