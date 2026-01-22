@@ -5337,7 +5337,7 @@
       },
       "pricing": {
         "prompt": "0.00000009",
-        "completion": "0.0000004",
+        "completion": "0.00000045",
         "request": "0",
         "image": "0",
         "web_search": "0",
@@ -5350,21 +5350,14 @@
       },
       "per_request_limits": null,
       "supported_parameters": [
-        "frequency_penalty",
         "include_reasoning",
         "max_tokens",
-        "min_p",
-        "presence_penalty",
         "reasoning",
-        "repetition_penalty",
         "response_format",
-        "seed",
-        "stop",
         "structured_outputs",
         "temperature",
         "tool_choice",
         "tools",
-        "top_k",
         "top_p"
       ],
       "default_parameters": {
