@@ -13582,7 +13582,7 @@
         "top_p"
       ],
       "default_parameters": {},
-      "expiration_date": "2026-02-06"
+      "expiration_date": "2026-03-03"
     },
     {
       "id": "meta-llama/llama-3.3-70b-instruct:free",
