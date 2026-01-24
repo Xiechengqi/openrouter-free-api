@@ -15745,7 +15745,7 @@
         "top_p"
       ],
       "default_parameters": {},
-      "expiration_date": null
+      "expiration_date": "2026-02-06"
     },
     {
       "id": "meta-llama/llama-3.1-8b-instruct",
