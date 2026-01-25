@@ -1937,11 +1937,7 @@
       },
       "pricing": {
         "prompt": "0",
-        "completion": "0",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0"
       },
       "top_provider": {
         "context_length": 131072,
@@ -1989,12 +1985,7 @@
       },
       "pricing": {
         "prompt": "0.000000045",
-        "completion": "0.00000015",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0",
-        "input_cache_read": "0"
+        "completion": "0.00000015"
       },
       "top_provider": {
         "context_length": 131072,
@@ -3618,11 +3609,7 @@
       },
       "pricing": {
         "prompt": "0.000000017",
-        "completion": "0.00000011",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.00000011"
       },
       "top_provider": {
         "context_length": 131000,
@@ -6162,11 +6149,7 @@
       },
       "pricing": {
         "prompt": "0.000000051",
-        "completion": "0.00000034",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.00000034"
       },
       "top_provider": {
         "context_length": 32768,
@@ -6692,11 +6675,7 @@
       },
       "pricing": {
         "prompt": "0.0000002",
-        "completion": "0.0000004",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.0000004"
       },
       "top_provider": {
         "context_length": 256000,
@@ -6737,11 +6716,7 @@
       },
       "pricing": {
         "prompt": "0.000002",
-        "completion": "0.000008",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.000008"
       },
       "top_provider": {
         "context_length": 256000,
@@ -14672,11 +14647,7 @@
       },
       "pricing": {
         "prompt": "0.000000027",
-        "completion": "0.0000002",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.0000002"
       },
       "top_provider": {
         "context_length": 60000,
@@ -17168,11 +17139,7 @@
       },
       "pricing": {
         "prompt": "0.00000011",
-        "completion": "0.00000019",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.00000019"
       },
       "top_provider": {
         "context_length": 2824,
