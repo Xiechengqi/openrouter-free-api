@@ -15,11 +15,6 @@
     "context": "36864"
   },
   {
-    "model": "Xiaomi: MiMo-V2-Flash (free)",
-    "id": "xiaomi/mimo-v2-flash:free",
-    "context": "262144"
-  },
-  {
     "model": "NVIDIA: Nemotron 3 Nano 30B A3B (free)",
     "id": "nvidia/nemotron-3-nano-30b-a3b:free",
     "context": "256000"
