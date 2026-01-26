@@ -1526,11 +1526,7 @@
       },
       "pricing": {
         "prompt": "0.00000015",
-        "completion": "0.00000015",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.00000015"
       },
       "top_provider": {
         "context_length": 32768,
@@ -2699,11 +2695,7 @@
       },
       "pricing": {
         "prompt": "0.00000125",
-        "completion": "0.00000125",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.00000125"
       },
       "top_provider": {
         "context_length": 128000,
@@ -3225,7 +3217,7 @@
         "image": "0",
         "web_search": "0",
         "internal_reasoning": "0",
-        "input_cache_read": "0.000000037"
+        "input_cache_read": "0.0000000375"
       },
       "top_provider": {
         "context_length": 131072,
@@ -3434,11 +3426,7 @@
       },
       "pricing": {
         "prompt": "0.0000005",
-        "completion": "0.0000015",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.0000015"
       },
       "top_provider": {
         "context_length": 262144,
@@ -3630,11 +3618,7 @@
       },
       "pricing": {
         "prompt": "0.0000035",
-        "completion": "0.0000035",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.0000035"
       },
       "top_provider": {
         "context_length": 32768,
@@ -4468,7 +4452,8 @@
         "request": "0",
         "image": "0",
         "web_search": "0",
-        "internal_reasoning": "0"
+        "internal_reasoning": "0",
+        "input_cache_read": "0.00000011"
       },
       "top_provider": {
         "context_length": 204800,
@@ -5484,11 +5469,7 @@
       },
       "pricing": {
         "prompt": "0",
-        "completion": "0",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0"
       },
       "top_provider": {
         "context_length": 262144,
@@ -5925,11 +5906,7 @@
       },
       "pricing": {
         "prompt": "0.00000088",
-        "completion": "0.00000088",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.00000088"
       },
       "top_provider": {
         "context_length": 32768,
@@ -5984,11 +5961,7 @@
       },
       "pricing": {
         "prompt": "0.00000018",
-        "completion": "0.00000059",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.00000059"
       },
       "top_provider": {
         "context_length": 32767,
@@ -6282,11 +6255,7 @@
       },
       "pricing": {
         "prompt": "0.00000015",
-        "completion": "0.00000075",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.00000075"
       },
       "top_provider": {
         "context_length": 32768,
@@ -6873,11 +6842,7 @@
       },
       "pricing": {
         "prompt": "0",
-        "completion": "0",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0"
       },
       "top_provider": {
         "context_length": 131072,
@@ -7035,11 +7000,7 @@
       },
       "pricing": {
         "prompt": "0",
-        "completion": "0",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0"
       },
       "top_provider": {
         "context_length": 131072,
@@ -7612,11 +7573,7 @@
       },
       "pricing": {
         "prompt": "0",
-        "completion": "0",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0"
       },
       "top_provider": {
         "context_length": 262000,
@@ -7968,11 +7925,7 @@
       },
       "pricing": {
         "prompt": "0",
-        "completion": "0",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0"
       },
       "top_provider": {
         "context_length": 32768,
@@ -8154,11 +8107,7 @@
       },
       "pricing": {
         "prompt": "0",
-        "completion": "0",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0"
       },
       "top_provider": {
         "context_length": 32768,
@@ -9414,11 +9363,7 @@
       },
       "pricing": {
         "prompt": "0.00000002",
-        "completion": "0.00000004",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.00000004"
       },
       "top_provider": {
         "context_length": 32768,
@@ -9622,11 +9567,7 @@
       },
       "pricing": {
         "prompt": "0.00000018",
-        "completion": "0.00000018",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.00000018"
       },
       "top_provider": {
         "context_length": 131072,
@@ -9670,11 +9611,7 @@
       },
       "pricing": {
         "prompt": "0.0000009",
-        "completion": "0.0000033",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.0000033"
       },
       "top_provider": {
         "context_length": 131072,
@@ -9718,11 +9655,7 @@
       },
       "pricing": {
         "prompt": "0.00000075",
-        "completion": "0.0000012",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.0000012"
       },
       "top_provider": {
         "context_length": 131072,
@@ -9768,11 +9701,7 @@
       },
       "pricing": {
         "prompt": "0.0000005",
-        "completion": "0.0000008",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.0000008"
       },
       "top_provider": {
         "context_length": 32768,
@@ -9865,11 +9794,7 @@
       },
       "pricing": {
         "prompt": "0",
-        "completion": "0",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0"
       },
       "top_provider": {
         "context_length": 40960,
@@ -10191,11 +10116,7 @@
       },
       "pricing": {
         "prompt": "0.0000002",
-        "completion": "0.0000006",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.0000006"
       },
       "top_provider": {
         "context_length": 40960,
@@ -11163,11 +11084,7 @@
       },
       "pricing": {
         "prompt": "0",
-        "completion": "0",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0"
       },
       "top_provider": {
         "context_length": 128000,
@@ -14424,11 +14341,7 @@
       },
       "pricing": {
         "prompt": "0",
-        "completion": "0",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0"
       },
       "top_provider": {
         "context_length": 131072,
@@ -15027,11 +14940,7 @@
       },
       "pricing": {
         "prompt": "0",
-        "completion": "0",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0"
       },
       "top_provider": {
         "context_length": 131072,
@@ -15405,11 +15314,7 @@
       },
       "pricing": {
         "prompt": "0.0000035",
-        "completion": "0.0000035",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.0000035"
       },
       "top_provider": {
         "context_length": 10000,
@@ -15841,11 +15746,7 @@
       },
       "pricing": {
         "prompt": "0.0000002",
-        "completion": "0.0000002",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.0000002"
       },
       "top_provider": {
         "context_length": 32768,
@@ -15891,11 +15792,7 @@
       },
       "pricing": {
         "prompt": "0.0000002",
-        "completion": "0.0000002",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.0000002"
       },
       "top_provider": {
         "context_length": 32768,
@@ -15941,11 +15838,7 @@
       },
       "pricing": {
         "prompt": "0.0000002",
-        "completion": "0.0000002",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.0000002"
       },
       "top_provider": {
         "context_length": 8192,
@@ -16617,11 +16510,7 @@
       },
       "pricing": {
         "prompt": "0.0000002",
-        "completion": "0.0000002",
-        "request": "0",
-        "image": "0",
-        "web_search": "0",
-        "internal_reasoning": "0"
+        "completion": "0.0000002"
       },
       "top_provider": {
         "context_length": 32768,
