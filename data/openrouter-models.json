@@ -3,10 +3,10 @@
     {
       "id": "moonshotai/kimi-k2.5",
       "canonical_slug": "moonshotai/kimi-k2.5-0127",
-      "hugging_face_id": "",
+      "hugging_face_id": "moonshotai/Kimi-K2.5",
       "name": "MoonshotAI: Kimi K2.5",
       "created": 1769487076,
-      "description": "Kimi K2.5 is Moonshot AI''s native multimodal model, delivering state-of-the-art visual coding capability and a self-directed agent swarm paradigm. Built on Kimi K2 with continued pretraining over approximately 15T mixed visual and text tokens, it delivers strong performance in general reasoning, visual coding, and agentic tool-calling.",
+      "description": "Kimi K2.5 is Moonshot AI's native multimodal model, delivering state-of-the-art visual coding capability and a self-directed agent swarm paradigm. Built on Kimi K2 with continued pretraining over approximately 15T mixed visual and text tokens, it delivers strong performance in general reasoning, visual coding, and agentic tool-calling.",
       "context_length": 262144,
       "architecture": {
         "modality": "text+image->text",
@@ -103,7 +103,7 @@
       "name": "MiniMax: MiniMax M2-her",
       "created": 1769177239,
       "description": "MiniMax M2-her is a dialogue-first large language model built for immersive roleplay, character-driven chat, and expressive multi-turn conversations. Designed to stay consistent in tone and personality, it supports rich message roles (user_system, group, sample_message_user, sample_message_ai) and can learn from example dialogue to better match the style and pacing of your scenario, making it a strong choice for storytelling, companions, and conversational experiences where natural flow and vivid interaction matter most.",
-      "context_length": 32768,
+      "context_length": 65536,
       "architecture": {
         "modality": "text->text",
         "input_modalities": [
@@ -121,7 +121,7 @@
         "input_cache_read": "0.00000003"
       },
       "top_provider": {
-        "context_length": 32768,
+        "context_length": 65536,
         "max_completion_tokens": 2048,
         "is_moderated": false
       },
