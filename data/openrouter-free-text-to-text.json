@@ -1,5 +1,10 @@
 [
   {
+    "model": "Upstage: Solar Pro 3 (free)",
+    "id": "upstage/solar-pro-3:free",
+    "context": "128000"
+  },
+  {
     "model": "LiquidAI: LFM2.5-1.2B-Thinking (free)",
     "id": "liquid/lfm-2.5-1.2b-thinking:free",
     "context": "32768"
