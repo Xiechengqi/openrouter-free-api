@@ -1,5 +1,10 @@
 [
   {
+    "model": "Arcee AI: Trinity Large Preview (free)",
+    "id": "arcee-ai/trinity-large-preview:free",
+    "context": "131000"
+  },
+  {
     "model": "Upstage: Solar Pro 3 (free)",
     "id": "upstage/solar-pro-3:free",
     "context": "128000"
