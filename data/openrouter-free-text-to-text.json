@@ -25,11 +25,6 @@
     "context": "256000"
   },
   {
-    "model": "Mistral: Devstral 2 2512 (free)",
-    "id": "mistralai/devstral-2512:free",
-    "context": "262144"
-  },
-  {
     "model": "Arcee AI: Trinity Mini (free)",
     "id": "arcee-ai/trinity-mini:free",
     "context": "131072"
