@@ -4223,7 +4223,7 @@
       "pricing": {
         "prompt": "0.00000015",
         "completion": "0.0000006",
-        "input_cache_read": "0.000000075"
+        "input_cache_read": "0.00000015"
       },
       "top_provider": {
         "context_length": 262144,
