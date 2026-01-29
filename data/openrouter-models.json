@@ -66,8 +66,8 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.00000057",
-        "completion": "0.00000285"
+        "prompt": "0.0000005",
+        "completion": "0.0000025"
       },
       "top_provider": {
         "context_length": 262144,
